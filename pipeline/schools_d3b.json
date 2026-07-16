@@ -1,0 +1,54 @@
+{
+"University of Utah": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Josh Grant","title":"Executive Director, Development & External Relations, Price College of Engineering","email":"josh.grant@utah.edu","phone":"801-585-7173","focus":"Development lead – Engineering","src":"price.utah.edu"},
+{"unit":"Engineering","name":"Ryan Boyack","title":"Senior Development Director","email":"ryan.boyack@utah.edu","phone":"801-587-9410","focus":"Major gifts – Engineering","src":"price.utah.edu"},
+{"unit":"Engineering","name":"Matt Kitterer","title":"Executive Director, Corporate & Foundation Relations","email":"matt.kitterer@utah.edu","phone":"801-585-5379","focus":"Corporate & foundation relations – Engineering","src":"price.utah.edu"},
+{"unit":"Science","name":"Anna Tibbits","title":"Senior Advancement Director, College of Science","email":"anna.tibbits@utah.edu","phone":"","focus":"Advancement lead – College of Science","src":"science.utah.edu"},
+{"unit":"Science","name":"James DeGooyer","title":"Associate Development Director, College of Science","email":"jdegooyer@science.utah.edu","phone":"801-581-3124","focus":"Major/annual/planned gifts – Science","src":"science.utah.edu"},
+{"unit":"Medicine","name":"Michael D. Delzotti","title":"President & COO, Huntsman Cancer Foundation","email":"mddelzotti@huntsmanfoundation.org","phone":"","focus":"Chief development officer – Huntsman Cancer Institute","src":"healthcare.utah.edu"},
+{"unit":"Medicine","name":"Jill-Ann Pearl","title":"Vice President, Huntsman Cancer Foundation","email":"jpearl@huntsmanfoundation.org","phone":"801-584-5816","focus":"Major/planned giving – cancer","src":"healthcare.utah.edu"},
+{"unit":"Medicine","name":"Alex Phillips","title":"Senior Director of Development, Dept. of Internal Medicine","email":"alex.j.phillips@utah.edu","phone":"","focus":"Major gifts – Internal Medicine","src":"medicine.utah.edu"},
+{"unit":"Central","name":"Dhiraj Chand","title":"Deputy Chief Philanthropy Officer, Principal Gifts","email":"d.chand@utah.edu","phone":"","focus":"Principal gifts","src":"advancement.utah.edu"},
+{"unit":"Central","name":"Lynn Wong","title":"Senior Director, Corporate & Foundation Relations (Health Sciences)","email":"lynn.wong@hsc.utah.edu","phone":"801-587-1066","focus":"Corporate & foundation relations – health sciences","src":"cfr.utah.edu"}
+]},
+"Northwestern University": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Kathleen Mallett","title":"Director of Development, McCormick School of Engineering","email":"kathleen.mallett@northwestern.edu","phone":"847-467-4091","focus":"Major gifts – Engineering","src":"mccormick.northwestern.edu"},
+{"unit":"Engineering","name":"Josy Gonzalo","title":"Associate Director of Development","email":"josy.gonzalo@northwestern.edu","phone":"847-467-5119","focus":"Major gifts – Engineering","src":"mccormick.northwestern.edu"},
+{"unit":"Medicine","name":"Alan M. Krensky","title":"Vice Dean for Development & Alumni Relations, Feinberg School of Medicine","email":"krensky@northwestern.edu","phone":"312-503-1256","focus":"Development lead – medical school","src":"feinberg.northwestern.edu"},
+{"unit":"Medicine","name":"Terri Dillon","title":"Associate Dean for Development","email":"terri-dillon@northwestern.edu","phone":"312-503-4837","focus":"Major gifts – cancer, urology","src":"feinberg.northwestern.edu"},
+{"unit":"Medicine","name":"Tiffany Scaparotti","title":"Associate Dean for Development","email":"tiffany.scaparotti@northwestern.edu","phone":"312-503-3088","focus":"Major gifts – cardiology, surgery, global health","src":"feinberg.northwestern.edu"},
+{"unit":"Medicine","name":"Andrew P. Christopherson","title":"Associate Dean for Development","email":"andrew.christopherson@northwestern.edu","phone":"312-503-3080","focus":"Major gifts – neurosciences, pediatrics","src":"feinberg.northwestern.edu"},
+{"unit":"Medicine","name":"Jordan Sund","title":"Senior Director, Major Gifts","email":"jordan.sund@northwestern.edu","phone":"312-503-2706","focus":"Major gifts – neurosciences, ob-gyn","src":"feinberg.northwestern.edu"},
+{"unit":"Medicine","name":"Michelle Melin-Rogovin","title":"Senior Director, Foundation Relations","email":"m-melin-rogovin@northwestern.edu","phone":"312-503-7072","focus":"Foundation relations – medicine","src":"feinberg.northwestern.edu"},
+{"unit":"Science","name":"Ashley Sinnott","title":"Senior Director of Development, Weinberg College of Arts & Sciences","email":"ashley.sinnott@northwestern.edu","phone":"847-491-4985","focus":"Development lead – Weinberg sciences","src":"weinberg.northwestern.edu"},
+{"unit":"Science","name":"Katie Taylor","title":"Director of Development, Weinberg College of Arts & Sciences","email":"katie-taylor@northwestern.edu","phone":"847-467-3231","focus":"Major gifts – Weinberg sciences","src":"weinberg.northwestern.edu"}
+]},
+"UCLA": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Tessa Mazler","title":"Assistant Dean, External Affairs, Samueli School of Engineering","email":"tmazler@support.ucla.edu","phone":"310-780-7373","focus":"Advancement leadership – Engineering","src":"samueli.ucla.edu"},
+{"unit":"Engineering","name":"Jim Loduha","title":"Senior Director of Development","email":"jloduha@support.ucla.edu","phone":"310-405-2569","focus":"Major gifts – Engineering","src":"samueli.ucla.edu"},
+{"unit":"Engineering","name":"Helen Magid","title":"Senior Director, Corporate & Foundation Relations","email":"hmagid@support.ucla.edu","phone":"310-825-3979","focus":"Corporate & foundation relations – Engineering","src":"samueli.ucla.edu"},
+{"unit":"Science","name":"Brooke Sanders","title":"Assistant Dean of Development, Physical Sciences","email":"bsanders@support.ucla.edu","phone":"310-794-9045","focus":"Advancement leadership – Physical Sciences","src":"physicalsciences.ucla.edu"},
+{"unit":"Science","name":"Rachel Scott Foster","title":"Director of Development, Physical Sciences","email":"rscott@support.ucla.edu","phone":"310-569-6321","focus":"Major gifts – Physical Sciences","src":"physicalsciences.ucla.edu"},
+{"unit":"Science","name":"Olivia Lam","title":"Assistant Dean for Development, Life Sciences","email":"","phone":"","focus":"Advancement leadership – Life Sciences","src":"lifesciences.ucla.edu"},
+{"unit":"Medicine","name":"Ellen Haddigan-Durgun","title":"Senior Executive Director, Hospital Initiatives, UCLA Health Sciences Development","email":"ehaddigan@mednet.ucla.edu","phone":"310-321-8366","focus":"Major gifts – hospital initiatives","src":"uclahealth.org"},
+{"unit":"Medicine","name":"Kate Throneburg","title":"Executive Director of Development, Jonsson Cancer Center Foundation","email":"kthroneburg@mednet.ucla.edu","phone":"424-440-0039","focus":"Major/principal gifts – cancer","src":"uclahealth.org"},
+{"unit":"Medicine","name":"Margaret Steele","title":"Executive Director, UCLA Jonsson Cancer Center Foundation","email":"mrsteele@mednet.ucla.edu","phone":"310-794-5244","focus":"Cancer center philanthropy leadership","src":"uclahealth.org"}
+]},
+"University of Chicago": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Heather Upshaw","title":"Senior Director and Associate Dean of Advancement, Pritzker School of Molecular Engineering","email":"hupshaw@uchicago.edu","phone":"773-834-4818","focus":"Advancement lead – Molecular Engineering","src":"pme.uchicago.edu"},
+{"unit":"Engineering","name":"Andréa Banks","title":"Associate Director of Advancement, PME","email":"abanks3@uchicago.edu","phone":"","focus":"Advancement – Molecular Engineering","src":"pme.uchicago.edu"},
+{"unit":"Medicine","name":"Kim M. Metzger","title":"Vice President & Associate Dean, UChicago Medicine & Biological Sciences Development","email":"kimmetzger@bsd.uchicago.edu","phone":"","focus":"Development lead – Medicine / BSD","src":"givetomedicine.uchicago.edu"},
+{"unit":"Medicine","name":"Kristin Stewart","title":"Senior Associate Vice President","email":"kristinstewart@bsd.uchicago.edu","phone":"","focus":"Major gifts – interdisciplinary & basic biological sciences","src":"givetomedicine.uchicago.edu"},
+{"unit":"Medicine","name":"Stephanie Dahl","title":"Assistant Vice President","email":"stephaniedahl@bsd.uchicago.edu","phone":"","focus":"Major gifts – cancer","src":"givetomedicine.uchicago.edu"},
+{"unit":"Medicine","name":"Bobbi Nease","title":"Senior Director, Corporate and Foundation Relations","email":"bobbinease@bsd.uchicago.edu","phone":"","focus":"Corporate & foundation relations – medicine/science research","src":"givetomedicine.uchicago.edu"},
+{"unit":"Science","name":"Katie Bailey","title":"Senior Director of Development & Associate Dean, Physical Sciences Division","email":"kbailey1@uchicago.edu","phone":"773-702-6132","focus":"Development lead – Physical Sciences","src":"physicalsciences.uchicago.edu"},
+{"unit":"Science","name":"Hannah Fry","title":"Associate Director of Development, Major Gifts, Physical Sciences","email":"hfry@uchicago.edu","phone":"773-702-0134","focus":"Major gifts – Physical Sciences","src":"physicalsciences.uchicago.edu"}
+]},
+"Brown University": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Nicole Peters Sisson","title":"Senior Director of Development for Academic Initiatives","email":"nicole_peters@brown.edu","phone":"401-863-9877","focus":"Primary development contact – School of Engineering & physical sciences","src":"alumni-friends.brown.edu"},
+{"unit":"Engineering","name":"Jennifer Casasanto","title":"Associate Dean for Strategy, Administration & External Affairs, Engineering","email":"jennifer_casasanto@brown.edu","phone":"401-863-1433","focus":"Alumni engagement & external affairs – Engineering","src":"engineering.brown.edu"},
+{"unit":"Medicine","name":"Cailie Burns","title":"Senior Associate Dean & Strategic Advisor for Advancement, Biology & Medicine","email":"cailie_burns@brown.edu","phone":"401-863-1635","focus":"Development lead – Warren Alpert Medical School & Biology","src":"alumni-friends.brown.edu"},
+{"unit":"Central","name":"Sergio Gonzalez","title":"Senior Vice President for Advancement","email":"sergio_gonzalez@brown.edu","phone":"","focus":"University-wide advancement leadership","src":"alumni-friends.brown.edu"},
+{"unit":"Central","name":"David Keeffe","title":"Vice President of Development","email":"david_keeffe@brown.edu","phone":"","focus":"University-wide development, principal gifts","src":"alumni-friends.brown.edu"}
+]}
+}

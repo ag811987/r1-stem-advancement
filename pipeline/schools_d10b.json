@@ -1,0 +1,66 @@
+{
+"University of Rochester": {"decile":10,"contacts":[
+{"unit":"Engineering","name":"Derek Swanson","title":"Executive Director of Advancement, Hajim School of Engineering & Applied Sciences","email":"derek.swanson@rochester.edu","phone":"315-271-9732","focus":"Development lead – Engineering & Applied Sciences","src":"hajim.rochester.edu"},
+{"unit":"Science","name":"Ashley Smith","title":"Executive Director of Advancement, School of Arts & Sciences","email":"ashley.smith@rochester.edu","phone":"585-276-6561","focus":"Development lead – Arts & Sciences (incl. natural sciences)","src":"sas.rochester.edu"},
+{"unit":"Medicine","name":"Michael Fahy","title":"Senior AVP, Medical Center Advancement","email":"michael.fahy@rochester.edu","phone":"585-276-5176","focus":"Leads URMC / School of Medicine & Dentistry advancement","src":"rochester.edu"},
+{"unit":"Medicine","name":"Melissa L. Head","title":"Executive Director for Advancement, URMC Academic Programs","email":"melissa.head@rochester.edu","phone":"585-273-2890","focus":"SMD academic-program fundraising","src":"urmc.rochester.edu"},
+{"unit":"Medicine","name":"Jennifer Koehnlein","title":"Executive Director of Development, URMC Clinical Programs","email":"jennifer.koehnlein@rochester.edu","phone":"585-273-5472","focus":"Clinical-program major gifts (Strong Memorial)","src":"urmc.rochester.edu"},
+{"unit":"Medicine","name":"Clare Flanagan","title":"Executive Director for Advancement, Wilmot Cancer Institute","email":"clare.flanagan@rochester.edu","phone":"585-276-4713","focus":"Development lead – Wilmot Cancer Institute","src":"urmc.rochester.edu"},
+{"unit":"Medicine","name":"Scott Rasmussen","title":"Senior AVP, UR Medicine Advancement","email":"srasmussen@admin.rochester.edu","phone":"","focus":"Senior leadership – Golisano Children's Hospital / URMC","src":"urmc.rochester.edu"},
+{"unit":"Central","name":"Thomas J. Farrell","title":"Senior VP for Advancement (CDO)","email":"","phone":"585-275-1837","focus":"Chief advancement officer","src":"rochester.edu"},
+{"unit":"Central","name":"Carey Anne Zucca","title":"Senior AVP, Principal Gifts & Presidential Advancement","email":"","phone":"585-276-1193","focus":"Principal gifts","src":"rochester.edu"},
+{"unit":"Central","name":"Lisa Hall","title":"AVP (Arts & Sciences, Hajim, Regional, Gift Planning)","email":"lisa.hall@rochester.edu","phone":"585-273-3619","focus":"Oversees A&S, Hajim, regional & gift planning","src":"rochester.edu"},
+{"unit":"Central","name":"Christopher Raimy","title":"Executive Director of Gift Planning","email":"craimy@admin.rochester.edu","phone":"585-275-9916","focus":"Planned giving (serves all units)","src":"rochester.giftplans.org"},
+{"unit":"Central","name":"Karen Chance Mercurius","title":"VP, Alumni Relations and Constituent Engagement","email":"","phone":"585-273-5888","focus":"Alumni relations & engagement","src":"rochester.edu"}
+]},
+"University of Nevada-Reno": {"decile":10,"contacts":[
+{"unit":"Engineering","name":"Jacqueline Maloney","title":"Director of Development, College of Engineering","email":"jacqueline.maloney@unr.edu","phone":"775-682-7696","focus":"Major gifts – Engineering","src":"unr.edu"},
+{"unit":"Engineering","name":"Zack Madonick","title":"Executive Director of Development (Engineering, CABNR, Business)","email":"","phone":"775-682-6041","focus":"Senior development officer – Engineering portfolio","src":"unr.edu"},
+{"unit":"Medicine","name":"Gabrielle Brackett","title":"Director of Development, School of Medicine","email":"","phone":"775-682-8206","focus":"UNR Med / public health major gifts","src":"med.unr.edu"},
+{"unit":"Medicine","name":"Lianna Glodt","title":"Associate Director of Development, School of Medicine","email":"","phone":"775-682-9871","focus":"UNR Med development","src":"unr.edu"},
+{"unit":"Medicine","name":"Jillian Baker","title":"Director of Development, Orvis School of Nursing","email":"","phone":"775-682-7153","focus":"Nursing / health-sciences major gifts","src":"unr.edu"},
+{"unit":"Science","name":"Leigh Fitzpatrick","title":"Director of Development, College of Science","email":"lfitzpatrick@unr.edu","phone":"775-682-8791","focus":"Major gifts – College of Science","src":"unr.edu"},
+{"unit":"Central","name":"Tracy Ostrem","title":"VP, University Advancement & Executive Director, UNR Foundation","email":"","phone":"775-784-1352","focus":"Chief development officer","src":"unr.edu"},
+{"unit":"Central","name":"Holly Stanco","title":"AVP, Advancement and Campaign","email":"","phone":"775-682-6013","focus":"Campaign / advancement leadership","src":"unr.edu"},
+{"unit":"Central","name":"Brian Saeman","title":"Director of Planned Giving","email":"","phone":"775-682-5938","focus":"Planned/estate giving","src":"unr.edu"},
+{"unit":"Central","name":"Lois O'Neill","title":"Director, Corporate and Foundation Relations","email":"","phone":"775-682-7536","focus":"Corporate & foundation relations","src":"unr.edu"},
+{"unit":"Central","name":"Keiko Weil","title":"Director, Donor Relations","email":"","phone":"775-682-5964","focus":"Stewardship / donor relations","src":"unr.edu"},
+{"unit":"Central","name":"Amy Carothers","title":"Executive Director, Alumni Engagement","email":"","phone":"775-682-6020","focus":"Alumni relations","src":"unr.edu"}
+]},
+"Boise State University": {"decile":10,"contacts":[
+{"unit":"Engineering","name":"Scott Jurgens","title":"Senior Director of Development, College of Engineering","email":"scottjurgens@boisestate.edu","phone":"","focus":"Development lead – Engineering (incl. biomedical eng)","src":"boisestate.edu"},
+{"unit":"Medicine","name":"Heather Jauregui","title":"Senior Director of Development, College of Health Sciences","email":"heatherjauregui@boisestate.edu","phone":"","focus":"Development lead – Health Sciences","src":"boisestate.edu"},
+{"unit":"Medicine","name":"Hayley Miller","title":"Director of Development, College of Health Sciences","email":"hlmiller@boisestate.edu","phone":"208-426-2564","focus":"Major gifts – Nursing, Public Health, Kinesiology","src":"boisestate.edu"},
+{"unit":"Science","name":"Melanie Bannister","title":"Executive Director of Development, College of Arts & Sciences","email":"melaniebannister@boisestate.edu","phone":"208-426-2562","focus":"Development lead – Arts & Sciences (incl. natural sciences)","src":"boisestate.edu"},
+{"unit":"Science","name":"Crystal Sinclair","title":"Director of Development, Sciences & School of the Environment","email":"crystalsinclair@boisestate.edu","phone":"","focus":"Major gifts – natural sciences & environment","src":"boisestate.edu"},
+{"unit":"Central","name":"Argia Beristain","title":"CEO, Boise State University Foundation / Sr. AVP for Development","email":"","phone":"","focus":"Chief development officer","src":"boisestate.edu"},
+{"unit":"Central","name":"Catherine (Kitty) Jay Didion","title":"Executive Director, Corporate and Foundation Partnerships","email":"","phone":"","focus":"Corporate & foundation relations","src":"boisestate.edu"},
+{"unit":"Central","name":"Bart Hendricks","title":"Senior Director of Development, Gift Planning","email":"barthendricks@boisestate.edu","phone":"208-426-2813","focus":"Planned/estate giving","src":"boisestate.edu"}
+]},
+"University of Idaho": {"decile":10,"contacts":[
+{"unit":"Engineering","name":"Maggie Scott","title":"Director of Development, College of Engineering","email":"maggies@uidaho.edu","phone":"208-885-7978","focus":"Major gifts – Engineering","src":"uidaho.edu"},
+{"unit":"Engineering","name":"Bobbi Hughes","title":"Chief Strategic Partnerships Officer, College of Engineering","email":"bhughes@uidaho.edu","phone":"208-885-5303","focus":"Engineering strategic partnerships","src":"uidaho.edu"},
+{"unit":"Engineering","name":"Ryelee Schlueter","title":"Assistant Director of Development, College of Engineering","email":"ryelees@uidaho.edu","phone":"208-885-8641","focus":"Development – Engineering","src":"uidaho.edu"},
+{"unit":"Medicine","name":"Brad Martin","title":"Director of Development, Idaho WWAMI","email":"bmartin@uidaho.edu","phone":"208-885-0935","focus":"WWAMI medical education / health sciences","src":"uidaho.edu"},
+{"unit":"Medicine","name":"Kendall Mooney","title":"Director of Development, College of Agricultural & Life Sciences","email":"kmooney@uidaho.edu","phone":"208-364-4483","focus":"CALS incl. animal/veterinary science","src":"uidaho.edu"},
+{"unit":"Science","name":"Eric Bennett","title":"Director of Development, College of Science","email":"ebennett@uidaho.edu","phone":"208-885-9106","focus":"Development lead – College of Science","src":"uidaho.edu"},
+{"unit":"Central","name":"Jen Root","title":"Vice President of Development","email":"jroot@uidaho.edu","phone":"208-885-4087","focus":"Leads all college/unit development","src":"uidaho.edu"},
+{"unit":"Central","name":"Ben McLuen","title":"CEO, UI Foundation","email":"bmcluen@uidaho.edu","phone":"208-885-5371","focus":"CDO – oversees all fundraising","src":"uidaho.edu"},
+{"unit":"Central","name":"Sharon Morgan","title":"Senior Director of Gift Planning","email":"morgans@uidaho.edu","phone":"208-919-1660","focus":"Planned/gift planning","src":"uidaho.edu"},
+{"unit":"Central","name":"Kate Walker","title":"Director of Corporate Relations","email":"kwalker@uidaho.edu","phone":"208-850-9223","focus":"Corporate & strategic partnerships","src":"uidaho.edu"},
+{"unit":"Central","name":"Kimberly Jackson","title":"Director of Foundation Relations","email":"kjackson@uidaho.edu","phone":"208-885-1712","focus":"Private foundation relations / grants","src":"uidaho.edu"},
+{"unit":"Central","name":"Jessica Hotchkiss","title":"Senior Director of Donor Relations","email":"jhotchkiss@uidaho.edu","phone":"208-885-5331","focus":"Donor relations / stewardship","src":"uidaho.edu"}
+]},
+"University of Alaska Fairbanks": {"decile":10,"contacts":[
+{"unit":"Central","name":"Theresa Bakker","title":"Development & Alumni Relations Director; Executive Director, UAF Alumni Association","email":"tabakker@alaska.edu","phone":"907-474-5535","focus":"Leads UAF development & alumni relations","src":"uaf.edu"},
+{"unit":"Central","name":"Megan Bean","title":"Associate Director of Fundraising (interim Director of Development)","email":"mmbean3@alaska.edu","phone":"907-322-2008","focus":"Major & planned giving; chancellor initiatives","src":"uaf.edu"},
+{"unit":"Central","name":"Jeremy Johnson","title":"Senior Relationship Manager","email":"jdjohnson10@alaska.edu","phone":"907-474-2619","focus":"Major-gift donor relationship management","src":"uaf.edu"},
+{"unit":"Central","name":"Gwen Roseberry","title":"Senior Relationship Manager","email":"gegibson@alaska.edu","phone":"907-474-6208","focus":"Major-gift donor relationship management","src":"uaf.edu"},
+{"unit":"Central","name":"Tlisa A. Northcutt","title":"President, University of Alaska Foundation; CDO, University of Alaska","email":"tanorthcutt@alaska.edu","phone":"907-786-1211","focus":"System CDO overseeing UAF fundraising","src":"alaska.edu"},
+{"unit":"Central","name":"Emily Drygas","title":"Senior Director of Principal Gifts","email":"emily.drygas@alaska.edu","phone":"907-450-8535","focus":"Principal gifts","src":"alaska.edu"},
+{"unit":"Central","name":"Genevieve Bright","title":"Principal Gifts Officer","email":"gybright@alaska.edu","phone":"907-450-8122","focus":"Principal gifts","src":"alaska.edu"},
+{"unit":"Central","name":"Melinda Seevers","title":"Senior Director of Strategic Partnerships","email":"mrseevers@alaska.edu","phone":"303-819-1050","focus":"Corporate & foundation partnerships","src":"alaska.edu"},
+{"unit":"Central","name":"Scott Taylor","title":"Philanthropic Advisor","email":"sntaylor@alaska.edu","phone":"907-450-8032","focus":"Planned/gift planning","src":"alaska.edu"},
+{"unit":"Central","name":"Harry Need","title":"Senior Director of Philanthropic Services","email":"hwneed@alaska.edu","phone":"907-786-4840","focus":"Donor relations / stewardship oversight","src":"alaska.edu"}
+]}
+}

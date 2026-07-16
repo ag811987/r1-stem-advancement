@@ -1,0 +1,60 @@
+{
+"Indiana University": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"David Shindley","title":"Executive Director of Development, Luddy School","email":"dshindl@iu.edu","phone":"","focus":"Development lead – Luddy (Informatics/Computing/Engineering)","src":"luddy.iu.edu"},
+{"unit":"Engineering","name":"Jaylen Beard","title":"Major Gifts Officer, Luddy School","email":"beardjay@iu.edu","phone":"","focus":"Major gifts – Luddy","src":"luddy.iu.edu"},
+{"unit":"Medicine","name":"Mark Notestine","title":"Senior Associate Dean for Development & Alumni Relations, IU School of Medicine","email":"manote@iu.edu","phone":"252-864-1112","focus":"Development lead – School of Medicine","src":"medicine.iu.edu"},
+{"unit":"Medicine","name":"Amber Kleopfer Senseny","title":"Executive Director of Advancement, IU Simon Cancer Center","email":"akleopfe@iu.edu","phone":"317-278-4510","focus":"Cancer Center advancement lead","src":"medicine.iu.edu"},
+{"unit":"Medicine","name":"Amanda Lawson Bell","title":"Senior Director of Development, School of Medicine","email":"lawsonam@iu.edu","phone":"317-278-2104","focus":"Major gifts – School of Medicine","src":"medicine.iu.edu"},
+{"unit":"Medicine","name":"Samuel M. Kinder","title":"Senior Director of Development, School of Medicine","email":"kindersm@iu.edu","phone":"317-278-5635","focus":"Major gifts – School of Medicine","src":"medicine.iu.edu"},
+{"unit":"Medicine","name":"Tim W. Ueber","title":"Director of Planned Giving, School of Medicine","email":"twueber@iu.edu","phone":"317-274-0187","focus":"Planned giving – Medicine","src":"medicine.iu.edu"},
+{"unit":"Science","name":"Jeff Stuckey","title":"Executive Director of Advancement, College of Arts + Sciences","email":"stuckeyj@iu.edu","phone":"812-855-0795","focus":"Development lead – A&S (incl. sciences)","src":"college.indiana.edu"},
+{"unit":"Science","name":"Josh Lodolo","title":"Senior Director of Advancement, College of Arts + Sciences","email":"jlodolo@iu.edu","phone":"812-855-6276","focus":"Major gifts – A&S sciences","src":"college.indiana.edu"}
+]},
+"University of Nebraska-Lincoln": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Justin Carlson","title":"Director of Development, College of Engineering","email":"justin.carlson@nufoundation.org","phone":"","focus":"Major gifts – Engineering","src":"nufoundation.org"},
+{"unit":"Engineering","name":"Amy Ferguson","title":"Development Officer, College of Engineering","email":"amy.ferguson@nufoundation.org","phone":"","focus":"Major gifts – Engineering","src":"nufoundation.org"},
+{"unit":"Medicine","name":"Amy Volk","title":"CDO, Nebraska Medicine & SVP, UNMC Development","email":"amy.volk@nufoundation.org","phone":"","focus":"Development lead – UNMC / Nebraska Medicine (Omaha)","src":"nufoundation.org"},
+{"unit":"Medicine","name":"Brian Anderson","title":"Senior Director of Development, UNMC College of Medicine","email":"brian.anderson@nufoundation.org","phone":"","focus":"Major gifts – College of Medicine","src":"nufoundation.org"},
+{"unit":"Medicine","name":"Tom Thompson","title":"Senior Director of Development, Buffett Cancer Center (UNMC)","email":"tom.thompson@nufoundation.org","phone":"","focus":"Major/principal gifts – cancer","src":"nufoundation.org"},
+{"unit":"Science","name":"Joye Fehringer","title":"Director of Development, UNL Arts & Sciences","email":"joye.fehringer@nufoundation.org","phone":"","focus":"Major gifts – A&S natural sciences","src":"nufoundation.org"},
+{"unit":"Central","name":"Lori Byrne","title":"Executive VP of Advancement & Campaign Director","email":"lori.byrne@nufoundation.org","phone":"","focus":"Foundation-wide advancement leadership","src":"nufoundation.org"},
+{"unit":"Central","name":"Liz Davis","title":"Director, Corporate & Foundation Relations","email":"liz.davis@nufoundation.org","phone":"","focus":"Corporate & foundation relations","src":"nufoundation.org"},
+{"unit":"Central","name":"Steve Hill","title":"Executive Director, Gift Planning","email":"stephen.hill@nufoundation.org","phone":"402-458-1186","focus":"Planned giving leadership","src":"giftplanning.nufoundation.org"}
+]},
+"Yale University": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Cynthia E. Beach","title":"Senior Director of Development & External Relations, SEAS","email":"cynthia.beach@yale.edu","phone":"203-432-5488","focus":"Development lead – Engineering & Applied Science","src":"forhumanity.yale.edu"},
+{"unit":"Medicine","name":"Meghan Fay","title":"AVP for Medical School Development & Alumni Affairs","email":"m.fay@yale.edu","phone":"203-436-8504","focus":"Development lead – School of Medicine","src":"forhumanity.yale.edu"},
+{"unit":"Medicine","name":"Zsuzsanna Somogyi","title":"Senior Director of Development, Yale School of Medicine","email":"zsuzsanna.somogyi@yale.edu","phone":"203-436-8559","focus":"Major/leadership gifts – Medicine","src":"forhumanity.yale.edu"},
+{"unit":"Medicine","name":"Tamiko Collier","title":"Director of Development, Yale Cancer Center","email":"tamiko.collier@yale.edu","phone":"203-436-8550","focus":"Major gifts – Cancer Center","src":"forhumanity.yale.edu"},
+{"unit":"Medicine","name":"Melissa Hey","title":"Director, Corporate & Foundation Relations, YSM","email":"melissa.cobleigh@yale.edu","phone":"203-436-8506","focus":"Corporate & foundation relations – Medicine","src":"forhumanity.yale.edu"},
+{"unit":"Science","name":"Dana Foster","title":"Senior Director of Development, Faculty of Arts & Sciences","email":"dana.foster@yale.edu","phone":"203-432-8844","focus":"Development lead – FAS sciences","src":"forhumanity.yale.edu"},
+{"unit":"Science","name":"Ann Rho","title":"Director of Development, Science Strategy","email":"ann.rho@yale.edu","phone":"203-432-7731","focus":"University-wide science fundraising strategy","src":"forhumanity.yale.edu"},
+{"unit":"Central","name":"Joan E. O'Neill","title":"Vice President for Alumni Affairs & Development","email":"joan.oneill@yale.edu","phone":"203-432-5461","focus":"University development leadership","src":"forhumanity.yale.edu"},
+{"unit":"Central","name":"Julie Braverman","title":"AVP for Development (Principal Gifts)","email":"julie.braverman@yale.edu","phone":"203-432-5521","focus":"Principal gifts","src":"forhumanity.yale.edu"},
+{"unit":"Central","name":"Alicia Carina Sanchez","title":"University Director, Corporate & Foundation Giving","email":"alicia.carina.sanchez@yale.edu","phone":"203-436-8518","focus":"Corporate & foundation relations","src":"forhumanity.yale.edu"},
+{"unit":"Central","name":"Cate McDonough","title":"University Director, Planned Giving","email":"caitlin.mcdonough@yale.edu","phone":"203-436-8516","focus":"Planned giving","src":"forhumanity.yale.edu"}
+]},
+"Clemson University": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Doug Gray","title":"Senior Director of Development, Engineering, Computing & Applied Sciences","email":"dgray2@clemson.edu","phone":"864-508-2146","focus":"Development lead – Engineering","src":"clemson.edu"},
+{"unit":"Engineering","name":"Nick Tadie","title":"Director of Development, Engineering, Computing & Applied Sciences","email":"ntadie@clemson.edu","phone":"","focus":"Major gifts – Engineering","src":"clemson.edu"},
+{"unit":"Medicine","name":"Heather Patel","title":"Director of Development & Unit Lead, Behavioral, Social & Health Sciences","email":"hpatel3@clemson.edu","phone":"864-501-4408","focus":"Development lead – health/biomedical sciences","src":"clemson.edu"},
+{"unit":"Science","name":"Peter Mathias","title":"Senior Director of Development & Team Lead, College of Science","email":"pmathia@clemson.edu","phone":"","focus":"Development lead – College of Science","src":"clemson.edu"},
+{"unit":"Science","name":"Kim Arp","title":"Director of Development, College of Science","email":"kimarp@clemson.edu","phone":"864-506-1488","focus":"Major gifts – Science","src":"clemson.edu"},
+{"unit":"Central","name":"Brian O'Rourke","title":"Senior Vice President, Advancement","email":"orourke@clemson.edu","phone":"864-656-5658","focus":"Chief advancement officer","src":"clemson.edu"},
+{"unit":"Central","name":"JoVanna King","title":"Senior Associate VP for Development","email":"jovanna@clemson.edu","phone":"864-656-0663","focus":"Gift planning, principal gifts, CFR","src":"clemson.edu"},
+{"unit":"Central","name":"Jordan Perkins","title":"Executive Director, Corporate & Foundation Relations","email":"japerki@clemson.edu","phone":"864-656-9925","focus":"Corporate & foundation relations","src":"clemson.edu"},
+{"unit":"Central","name":"Paul Kent","title":"Senior Director of Gift & Estate Planning","email":"kent7@clemson.edu","phone":"864-656-5399","focus":"Planned giving","src":"clemson.edu"}
+]},
+"University of California-Santa Barbara": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Mehgan Tanner","title":"Interim Assistant Dean of Development, College of Engineering","email":"mehgan.tanner@ucsb.edu","phone":"805-450-3808","focus":"Development lead – Engineering","src":"giving.ucsb.edu"},
+{"unit":"Engineering","name":"Hannah Hultgren","title":"Director of Development, College of Engineering","email":"hannahhultgren@ucsb.edu","phone":"805-893-5830","focus":"Major gifts – Engineering","src":"giving.ucsb.edu"},
+{"unit":"Engineering","name":"John Sawyer","title":"Director of Development, College of Engineering","email":"johnsawyer@ucsb.edu","phone":"805-893-5502","focus":"Major gifts – Engineering","src":"giving.ucsb.edu"},
+{"unit":"Medicine","name":"Erin Kozaki","title":"Senior Director of Development, Sciences & BioEngineering","email":"erinkozaki@ucsb.edu","phone":"805-893-5254","focus":"Life sciences & bioengineering major gifts","src":"giving.ucsb.edu"},
+{"unit":"Science","name":"Bethany Innocenti","title":"Senior Director of Development, Math, Life & Physical Sciences","email":"bethany.innocenti@ucsb.edu","phone":"805-680-0052","focus":"Development lead – Sciences division","src":"giving.ucsb.edu"},
+{"unit":"Science","name":"Melissa Gruber","title":"Director of Development, Math, Life & Physical Sciences","email":"melissagruber@ucsb.edu","phone":"805-893-4677","focus":"Major gifts – Sciences division","src":"giving.ucsb.edu"},
+{"unit":"Central","name":"Lynn Hawks","title":"Senior Assistant Dean of Development, Engineering & the Sciences","email":"lynn.hawks@ucsb.edu","phone":"805-893-5132","focus":"Leads Engineering & Sciences development team","src":"science.ucsb.edu"},
+{"unit":"Central","name":"Chris Pizzinat","title":"AVC, Development; Executive Director, UCSB Foundation","email":"chris.pizzinat@ucsb.edu","phone":"805-893-5126","focus":"Campus development leadership","src":"giving.ucsb.edu"},
+{"unit":"Central","name":"Nicole Klanfer","title":"AVC, Development (Principal & Leadership Gifts)","email":"nicole.klanfer@ucsb.edu","phone":"805-451-2858","focus":"Principal & leadership gifts","src":"giving.ucsb.edu"},
+{"unit":"Central","name":"Robert Dunton","title":"Senior Director of Development, Foundation & Corporate Relations","email":"robertdunton@ucsb.edu","phone":"805-893-2925","focus":"Corporate & foundation relations","src":"giving.ucsb.edu"}
+]}
+}

@@ -1,0 +1,57 @@
+{
+"University of Houston": {"decile":8,"contacts":[
+{"unit":"Engineering","name":"Alex Moreno","title":"Senior Director of Advancement, Cullen College of Engineering","email":"jamore24@central.uh.edu","phone":"","focus":"Development lead – Engineering","src":"advancement.egr.uh.edu"},
+{"unit":"Engineering","name":"Cathy Brown","title":"Director of Relations, Cullen College of Engineering","email":"cmbrow31@central.uh.edu","phone":"713-743-2804","focus":"Donor/alumni relations – Engineering","src":"advancement.egr.uh.edu"},
+{"unit":"Science","name":"Margarita Pérez Frinsco","title":"Senior Director of Advancement, Natural Sciences & Mathematics","email":"mperez42@uh.edu","phone":"713-743-2234","focus":"Development lead – Natural Sciences & Mathematics","src":"uh.edu"},
+{"unit":"Science","name":"David Tucker","title":"Associate Director of Advancement, Natural Sciences & Mathematics","email":"dptucker@uh.edu","phone":"713-743-7172","focus":"Major gifts – NSM","src":"uh.edu"},
+{"unit":"Medicine","name":"Jacqueline Macha","title":"Chief Development Officer, UH Health (Medicine, Nursing, Pharmacy)","email":"jmmacha@central.uh.edu","phone":"","focus":"Development lead – Fertitta College of Medicine & health colleges","src":"uh.edu"},
+{"unit":"Central","name":"Russell Dunlavy","title":"Vice Chancellor/VP for Advancement & Alumni","email":"rtdunlav@central.uh.edu","phone":"713-743-4209","focus":"University advancement leadership","src":"giveto.uh.edu"},
+{"unit":"Central","name":"Jaha Williams","title":"Chief Development Officer","email":"jwilli29@central.uh.edu","phone":"","focus":"Major/principal gifts leadership","src":"giveto.uh.edu"},
+{"unit":"Central","name":"Marianne Dwyer","title":"Chief Development Officer, Foundation Relations","email":"mdwyer@central.uh.edu","phone":"","focus":"Foundation relations","src":"giveto.uh.edu"},
+{"unit":"Central","name":"David Piccirilli","title":"Executive Director, Corporate Relations","email":"dapiccir@central.uh.edu","phone":"","focus":"Corporate relations","src":"giveto.uh.edu"}
+]},
+"Louisiana State University": {"decile":8,"contacts":[
+{"unit":"Engineering","name":"Chris Marshall","title":"Senior Director of Development, College of Engineering","email":"cmarshall@lsufoundation.org","phone":"225-578-4986","focus":"Development lead – Engineering","src":"lsu.edu"},
+{"unit":"Engineering","name":"Darby Carriere","title":"Director of Development, College of Engineering","email":"dcarriere@lsufoundation.org","phone":"225-578-5895","focus":"Major gifts – Engineering","src":"lsufoundation.org"},
+{"unit":"Engineering","name":"Patrick Hire","title":"Director of Development, College of Engineering","email":"phire@lsufoundation.org","phone":"225-578-8738","focus":"Major gifts – Engineering","src":"lsu.edu"},
+{"unit":"Medicine","name":"Tracy Evans","title":"Executive Director of Development / AVP of Development","email":"tracy@lsu.edu","phone":"","focus":"Development lead – Veterinary Medicine","src":"lsu.edu"},
+{"unit":"Medicine","name":"Claire Francois","title":"Senior Director of Development, School of Veterinary Medicine","email":"cfrancois@lsufoundation.org","phone":"","focus":"Major gifts – Veterinary Medicine","src":"lsu.edu"},
+{"unit":"Medicine","name":"Bri Barrett","title":"Chief Development Officer, Pennington Biomedical Research Foundation","email":"bri.barrett@pbrf.org","phone":"225-763-3036","focus":"Development lead – Pennington Biomedical","src":"pbrf.org"},
+{"unit":"Science","name":"Sofia Uijttenboogaard","title":"Senior Director of Development, College of Science","email":"suijttenboogaard@lsufoundation.org","phone":"225-578-8512","focus":"Development lead – College of Science","src":"lsufoundation.org"},
+{"unit":"Science","name":"Missy Amy","title":"Director of Development, College of Science","email":"mamy@lsufoundation.org","phone":"225-578-0405","focus":"Major gifts – Science","src":"lsufoundation.org"},
+{"unit":"Science","name":"Gabi Hull","title":"Director of Development, College of Science","email":"ghull@lsufoundation.org","phone":"225-578-2441","focus":"Major gifts – Science","src":"lsufoundation.org"}
+]},
+"University of California-Santa Cruz": {"decile":8,"contacts":[
+{"unit":"Engineering","name":"Molly Sims","title":"Executive Director of Development, Baskin Engineering","email":"maasims@ucsc.edu","phone":"831-239-0027","focus":"Development lead – Engineering","src":"advancement.ucsc.edu"},
+{"unit":"Engineering","name":"Alexandria M. Leckliter","title":"Associate Director of Development, Baskin Engineering","email":"alexand@ucsc.edu","phone":"510-295-9719","focus":"Major gifts – Engineering","src":"advancement.ucsc.edu"},
+{"unit":"Science","name":"Diane Wilson","title":"Executive Director of Development, Sciences","email":"dibwilso@ucsc.edu","phone":"831-459-4240","focus":"Development lead – Physical & Biological Sciences","src":"advancement.ucsc.edu"},
+{"unit":"Science","name":"Patrick Myers","title":"Director of Development, Sciences","email":"prmyers@ucsc.edu","phone":"415-450-0615","focus":"Major gifts – Sciences","src":"advancement.ucsc.edu"},
+{"unit":"Central","name":"Mark Delos Reyes Davis","title":"Vice Chancellor, University Advancement; President, UCSC Foundation","email":"mdrdavis@ucsc.edu","phone":"831-459-2654","focus":"Campus advancement leadership","src":"advancement.ucsc.edu"},
+{"unit":"Central","name":"Priya Mehta","title":"Associate Vice Chancellor for Development","email":"pmehta7@ucsc.edu","phone":"646-287-1534","focus":"Major/principal gifts leadership","src":"advancement.ucsc.edu"},
+{"unit":"Central","name":"Sarah A. Carle","title":"Executive Director, Foundation Relations","email":"sacarle@ucsc.edu","phone":"213-321-4248","focus":"Corporate & foundation relations","src":"advancement.ucsc.edu"},
+{"unit":"Central","name":"Lora Lee Hollingsworth","title":"Executive Director of Gift Planning","email":"llhollin@ucsc.edu","phone":"831-459-5227","focus":"Planned giving","src":"advancement.ucsc.edu"}
+]},
+"Vanderbilt University": {"decile":8,"contacts":[
+{"unit":"Engineering","name":"Garrett Munro","title":"Associate Dean for Development, School of Engineering","email":"garrett.munro@vanderbilt.edu","phone":"615-343-1654","focus":"Development lead – Engineering","src":"engineering.vanderbilt.edu"},
+{"unit":"Engineering","name":"Matthew Jones","title":"Senior Director of Development, Engineering","email":"matthew.d.jones@vanderbilt.edu","phone":"615-343-2744","focus":"Major gifts – Engineering","src":"engineering.vanderbilt.edu"},
+{"unit":"Medicine","name":"Taylor Wood","title":"Associate Dean for Development & Alumni Relations, School of Medicine","email":"taylor.h.wood@vanderbilt.edu","phone":"615-343-5648","focus":"Development lead – School of Medicine / Basic Sciences","src":"medschool.vanderbilt.edu"},
+{"unit":"Medicine","name":"Nicole Disbrow","title":"Executive Director of Development, School of Medicine","email":"nicole.disbrow@vanderbilt.edu","phone":"615-322-8976","focus":"Major gifts – Medicine / Basic Sciences","src":"medschool.vanderbilt.edu"},
+{"unit":"Medicine","name":"Talmadge Ingham-Johnsen","title":"Vice President for VUMC Development","email":"talmadge.ingham-johnsen@vumc.org","phone":"615-343-0199","focus":"Development lead – Vanderbilt University Medical Center","src":"vanderbilthealth.org"},
+{"unit":"Medicine","name":"Sue Reeves","title":"Executive Director of Foundation Relations, VUMC","email":"sue.reeves@vumc.org","phone":"615-936-2964","focus":"Corporate & foundation relations – VUMC","src":"vanderbilthealth.org"},
+{"unit":"Science","name":"Rachel Wierenga","title":"Associate Dean of Development, College of Arts & Science","email":"rachel.wierenga@vanderbilt.edu","phone":"615-343-3858","focus":"Development lead – A&S (incl. sciences)","src":"as.vanderbilt.edu"},
+{"unit":"Science","name":"Mary Brenna Corr","title":"Senior Director of Development, Arts & Science","email":"marybrenna.corr@vanderbilt.edu","phone":"","focus":"Major gifts – A&S sciences","src":"as.vanderbilt.edu"},
+{"unit":"Science","name":"Kim Boyer","title":"Senior Director of Development, Arts & Science","email":"kimberly.boyer@vanderbilt.edu","phone":"","focus":"Major gifts – A&S sciences","src":"as.vanderbilt.edu"}
+]},
+"Auburn University": {"decile":8,"contacts":[
+{"unit":"Engineering","name":"Ed Collari","title":"Executive Director of Development, Samuel Ginn College of Engineering","email":"elc0042@auburn.edu","phone":"334-844-1488","focus":"Development lead – Engineering","src":"eng.auburn.edu"},
+{"unit":"Engineering","name":"David Mattox","title":"Senior Major Gifts Officer, Engineering","email":"mattoda@auburn.edu","phone":"334-844-1278","focus":"Major gifts – Aerospace, Chemical Eng","src":"eng.auburn.edu"},
+{"unit":"Engineering","name":"Casey Waid","title":"Senior Major Gifts Officer, Engineering","email":"chw0019@auburn.edu","phone":"334-844-8220","focus":"Major gifts – Biosystems, Industrial & Systems Eng","src":"eng.auburn.edu"},
+{"unit":"Medicine","name":"Diana Turner","title":"Senior Director of Development, College of Veterinary Medicine","email":"milesdi@auburn.edu","phone":"334-844-1274","focus":"Development lead – Veterinary Medicine","src":"vetmed.auburn.edu"},
+{"unit":"Medicine","name":"Brandee Payne","title":"Advancement Officer, College of Veterinary Medicine","email":"bfp0004@auburn.edu","phone":"334-844-1254","focus":"Major gifts – Veterinary Medicine","src":"vetmed.auburn.edu"},
+{"unit":"Medicine","name":"Kori Caldwell","title":"Director of Development, Harrison College of Pharmacy","email":"caldwks@auburn.edu","phone":"334-844-3624","focus":"Major gifts – Pharmacy (health)","src":"auburngiving.org"},
+{"unit":"Science","name":"Will Holley","title":"Director of Development, College of Sciences & Mathematics","email":"hollewl@auburn.edu","phone":"334-844-1235","focus":"Development lead – Sciences & Mathematics","src":"auburn.edu"},
+{"unit":"Science","name":"Ashley Underwood","title":"Development Officer, College of Sciences & Mathematics","email":"ahu0001@auburn.edu","phone":"334-844-2931","focus":"Major gifts – Sciences & Mathematics","src":"auburn.edu"},
+{"unit":"Central","name":"Will Johnson","title":"Assistant Vice President for Philanthropy","email":"","phone":"334-844-1139","focus":"Oversees college development incl. health-science","src":"auburngiving.org"},
+{"unit":"Central","name":"Alesia Davenport","title":"Senior Director of Planned Giving","email":"plannedgiving@auburn.edu","phone":"334-844-7375","focus":"Planned giving","src":"auburngiving.org"}
+]}
+}

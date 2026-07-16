@@ -1,0 +1,48 @@
+{
+"University of Georgia": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Michaela Collins","title":"Assistant Director of Development, College of Engineering","email":"michaela.collins1@uga.edu","phone":"706-542-6677","focus":"Major gifts – Engineering","src":"dar.uga.edu"},
+{"unit":"Engineering","name":"Jordan DeRosa","title":"Director of Corporate Engagement, College of Engineering","email":"jordan.derosa@uga.edu","phone":"706-621-0212","focus":"Corporate & foundation relations – Engineering","src":"dar.uga.edu"},
+{"unit":"Medicine","name":"Hudson Clare","title":"Senior Director of Development, School of Medicine","email":"hudson.clare@uga.edu","phone":"706-255-3106","focus":"Development lead – School of Medicine / Medical Partnership","src":"dar.uga.edu"},
+{"unit":"Medicine","name":"Michelle Jones","title":"Senior Director of Development, College of Veterinary Medicine","email":"mjones5@uga.edu","phone":"256-452-3772","focus":"Development lead – Veterinary Medicine","src":"dar.uga.edu"},
+{"unit":"Medicine","name":"Taylor Hicks","title":"Regional Director of Development, College of Veterinary Medicine","email":"thicks92@uga.edu","phone":"706-247-3833","focus":"Major gifts – Veterinary Medicine","src":"dar.uga.edu"},
+{"unit":"Science","name":"Abby Fuller","title":"Director of Development, Franklin College of Arts & Sciences","email":"abby.fuller@uga.edu","phone":"706-247-4179","focus":"Major gifts – Franklin sciences","src":"dar.uga.edu"},
+{"unit":"Science","name":"Jack Hill","title":"Director of Development, Strategic Initiatives, Franklin College","email":"jack.hill4@uga.edu","phone":"706-542-1538","focus":"Major gifts – Franklin sciences","src":"dar.uga.edu"}
+]},
+"University of Hawaii": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Charisse Pudiquet","title":"Director of Development (Engineering, SOEST)","email":"charisse.pudiquet@uhfoundation.org","phone":"808-956-3333","focus":"Major gifts – College of Engineering","src":"uhfoundation.org"},
+{"unit":"Medicine","name":"Julie Inouye","title":"Director of Development & Alumni Engagement, JABSOM","email":"julie.inouye@uhfoundation.org","phone":"808-692-0873","focus":"Development lead – John A. Burns School of Medicine","src":"jabsom.hawaii.edu"},
+{"unit":"Medicine","name":"Aaron Mandich","title":"Associate Director of Development, JABSOM","email":"aaron.mandich@uhfoundation.org","phone":"808-692-0991","focus":"Major/annual gifts – School of Medicine","src":"jabsom.hawaii.edu"},
+{"unit":"Science","name":"Eriza Bareng","title":"Senior Director of Development, College of Natural Sciences","email":"eriza.bareng@uhfoundation.org","phone":"808-956-6052","focus":"Major gifts – Natural Sciences","src":"uhfoundation.org"}
+]},
+"University of Oklahoma Norman Campus": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Stephanie Buettner","title":"Executive Director of Advancement, Gallogly College of Engineering","email":"sbuettner@ou.edu","phone":"405-615-6750","focus":"Development lead – Engineering","src":"ou.edu"},
+{"unit":"Engineering","name":"Jeremy Barnes","title":"Senior Director of Development, Engineering","email":"jsbarnes@ou.edu","phone":"806-282-4927","focus":"Major gifts – Aerospace & Mechanical Eng","src":"oufoundation.org"},
+{"unit":"Engineering","name":"Lexi Skaggs","title":"Senior Director of Development, Engineering","email":"lskaggs@ou.edu","phone":"405-620-1433","focus":"Major gifts – Chemical/Biomedical Eng","src":"oufoundation.org"},
+{"unit":"Medicine","name":"Taylor Lingle","title":"Executive Director of Advancement, OU College of Medicine","email":"taylor-lingle@ou.edu","phone":"","focus":"Development lead – College of Medicine / Health Sciences","src":"oufoundation.org"},
+{"unit":"Medicine","name":"Lydia Chapman","title":"Senior Director of Development, College of Medicine","email":"lydia-chapman@ou.edu","phone":"405-532-2278","focus":"Major gifts – College of Medicine","src":"oufoundation.org"},
+{"unit":"Science","name":"Cassie Jansing","title":"Executive Director of Advancement, Dodge Family College of Arts & Sciences","email":"cassiejansing@ou.edu","phone":"405-325-9122","focus":"Development lead – Arts & Sciences (incl. sciences)","src":"ou.edu"},
+{"unit":"Science","name":"Eric Bowman","title":"Director of Advancement, Dodge Family College of Arts & Sciences","email":"ebowman@ou.edu","phone":"405-325-3482","focus":"Major gifts – A&S sciences","src":"ou.edu"}
+]},
+"Duke University": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Jim Ruth","title":"Senior Associate Dean & Director of Development, Pratt School of Engineering","email":"james.ruth@duke.edu","phone":"","focus":"Development lead – Engineering","src":"pratt.duke.edu"},
+{"unit":"Engineering","name":"J. Philip Duhart","title":"Senior Director of Major Gifts, Pratt Engineering","email":"philip.duhart@duke.edu","phone":"","focus":"Major gifts – Engineering","src":"pratt.duke.edu"},
+{"unit":"Engineering","name":"Karen Kalafatas","title":"Director of Major Gifts, Pratt Engineering","email":"karen.kalafatas@duke.edu","phone":"919-684-1976","focus":"Major gifts – Engineering","src":"pratt.duke.edu"},
+{"unit":"Medicine","name":"Stacy L. Waters","title":"Vice President, Duke Health Development & Alumni Affairs","email":"","phone":"","focus":"Development lead – Duke Health / School of Medicine","src":"giving.dukehealth.org"},
+{"unit":"Medicine","name":"Stacy Davis","title":"AVP, School of Medicine Development & Alumni Affairs","email":"stacy.davis@duke.edu","phone":"","focus":"School of Medicine development leadership","src":"medschool.duke.edu"},
+{"unit":"Medicine","name":"Jessica Baga May","title":"Executive Director of Development, Medicine, Surgery & Clinical Care","email":"","phone":"","focus":"Major gifts – Medicine/Surgery","src":"giving.dukehealth.org"},
+{"unit":"Science","name":"Erica Hill","title":"Associate Dean & AVP of Development, Trinity College of Arts & Sciences","email":"erica.hill@duke.edu","phone":"919-668-9362","focus":"Development lead – Arts & Sciences (incl. sciences)","src":"trinity.duke.edu"},
+{"unit":"Science","name":"Diontre L. Earl","title":"Director of Development, Duke Sciences","email":"diontre.earl@duke.edu","phone":"919-613-1756","focus":"Major gifts – natural sciences","src":"alumni.duke.edu"},
+{"unit":"Science","name":"Matthew A. Hutter","title":"Assistant Vice President, Duke Science & Technology","email":"matthew.hutter@duke.edu","phone":"919-668-0970","focus":"Science & Technology initiative","src":"alumni.duke.edu"},
+{"unit":"Central","name":"Wm. Chris Clarke","title":"Senior AVP & Chief Development Officer","email":"chris.clarke@duke.edu","phone":"919-681-0402","focus":"University development leadership","src":"alumni.duke.edu"},
+{"unit":"Central","name":"David L. Kennedy","title":"Vice President of Alumni Engagement & Development","email":"david.kennedy@duke.edu","phone":"919-684-3363","focus":"Alumni engagement & development leadership","src":"alumni.duke.edu"}
+]},
+"Oregon State University": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Aimee Jirak","title":"Senior Director of Development, College of Engineering","email":"aimee.jirak@osufoundation.org","phone":"515-450-1326","focus":"Major/leadership gifts – Engineering","src":"engineering.oregonstate.edu"},
+{"unit":"Engineering","name":"Scott Elmshaeuser","title":"Director of Development, College of Engineering","email":"scott.elmshaeuser@osufoundation.org","phone":"541-224-3992","focus":"Major gifts – Engineering","src":"engineering.oregonstate.edu"},
+{"unit":"Medicine","name":"Anna Justice","title":"Senior Director of Development, Veterinary Medicine & Pharmacy","email":"anna.justice@osufoundation.org","phone":"541-207-7319","focus":"Major/planned gifts – Vet Medicine & Pharmacy","src":"vetmed.oregonstate.edu"},
+{"unit":"Medicine","name":"Jessica Merkner","title":"Senior Director of Development, College of Health & Linus Pauling Institute","email":"jessica.merkner@osufoundation.org","phone":"541-737-4218","focus":"Major gifts – Health / Linus Pauling Institute","src":"health.oregonstate.edu"},
+{"unit":"Science","name":"Tom McLennan","title":"Senior Director of Development, College of Science","email":"tom.mclennan@oregonstate.edu","phone":"541-737-0847","focus":"Development lead – College of Science","src":"science.oregonstate.edu"},
+{"unit":"Science","name":"Hannah Hegerberg","title":"Director of Development, College of Science","email":"hannah.hegerberg@oregonstate.edu","phone":"541-223-3913","focus":"Major gifts – Science","src":"science.oregonstate.edu"},
+{"unit":"Central","name":"Elizabeth Ocampo","title":"Director of Development, Corporate & Foundation Relations","email":"elizabeth.ocampo@osufoundation.org","phone":"513-290-3332","focus":"Corporate & foundation relations","src":"fororegonstate.org"}
+]}
+}

@@ -1,0 +1,57 @@
+{
+"Stanford University": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Matthew Bahls","title":"Associate Dean of Development, School of Engineering","email":"mbahls@stanford.edu","phone":"650-723-9043","focus":"Development lead – Engineering","src":"engineering.stanford.edu"},
+{"unit":"Engineering","name":"Erin Phillips","title":"Director of Development","email":"erinp1@stanford.edu","phone":"650-721-2954","focus":"Major gifts – Engineering","src":"engineering.stanford.edu"},
+{"unit":"Engineering","name":"Frank Scioscia","title":"Senior Director of Strategic Partnerships","email":"frank.scioscia@stanford.edu","phone":"650-724-7703","focus":"Corporate/strategic partnerships – Engineering","src":"engineering.stanford.edu"},
+{"unit":"Medicine","name":"Julia Erwin-Weiner","title":"Senior AVP, Medical Center Development","email":"jeweiner@stanford.edu","phone":"650-725-0926","focus":"Development lead – Stanford Medicine","src":"med.stanford.edu"},
+{"unit":"Medicine","name":"Joy Morimoto","title":"AVP, Medical Center Development (Corporate & Foundation Relations)","email":"joym@stanford.edu","phone":"650-736-9749","focus":"Corporate & foundation relations – Medicine","src":"med.stanford.edu"},
+{"unit":"Medicine","name":"Kim Armstrong","title":"Senior Director, Partner Programs, Medical Center Development","email":"karm@stanford.edu","phone":"650-721-6940","focus":"Partner/leadership giving – Medicine","src":"med.stanford.edu"},
+{"unit":"Medicine","name":"Wendy Chou","title":"Director, Planned Giving, Medical Center Development","email":"wchou@stanford.edu","phone":"650-724-9447","focus":"Planned giving – Medicine","src":"med.stanford.edu"},
+{"unit":"Science","name":"Neil Penick","title":"Associate Dean for External Relations (H&S) & AVP for Development","email":"npenick@stanford.edu","phone":"650-723-8681","focus":"Development lead – Humanities & Sciences (incl. sciences)","src":"cfr.stanford.edu"},
+{"unit":"Science","name":"David Tozer","title":"Senior Associate Director of Development for the Natural Sciences","email":"dtozer@stanford.edu","phone":"","focus":"Major gifts – Physics, Chemistry, Biology","src":"cfr.stanford.edu"},
+{"unit":"Science","name":"Mallory Swartz","title":"Director of Development, Humanities & Sciences","email":"mjswartz@stanford.edu","phone":"","focus":"Major gifts – H&S","src":"cfr.stanford.edu"},
+{"unit":"Central","name":"Brooke Groves-Anderson","title":"Director, University Corporate & Foundation Relations","email":"bgrovesa@stanford.edu","phone":"650-725-6250","focus":"Corporate & foundation relations","src":"cfr.stanford.edu"}
+]},
+"University of Arizona": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Margie V. Puerta Edson","title":"Assistant Dean, Development & Corporate Relations, Engineering","email":"puertaedson@arizona.edu","phone":"520-400-8022","focus":"Development lead – Engineering","src":"engineering.arizona.edu"},
+{"unit":"Engineering","name":"Robb Keith","title":"Director of Development, Engineering","email":"robbkeith@arizona.edu","phone":"520-626-5133","focus":"Major gifts – Engineering","src":"engineering.arizona.edu"},
+{"unit":"Engineering","name":"Arturo Ross","title":"Senior Associate Director of Development, Engineering","email":"arturoross@arizona.edu","phone":"520-869-2042","focus":"Major/leadership gifts – Engineering","src":"engineering.arizona.edu"},
+{"unit":"Medicine","name":"LaToya Singletary","title":"Senior Director of Development, College of Medicine – Tucson","email":"lsingletary@arizona.edu","phone":"520-626-4518","focus":"Major gifts – College of Medicine (Health Sciences)","src":"deptmedicine.arizona.edu"},
+{"unit":"Medicine","name":"Julie Bowe","title":"Director of Development, College of Medicine – Phoenix","email":"","phone":"602-469-3041","focus":"Major gifts – College of Medicine Phoenix","src":"phoenixmed.arizona.edu"},
+{"unit":"Science","name":"Cheryl Tomoeda","title":"Assistant Dean, Alumni & Development, College of Science","email":"cherylt@arizona.edu","phone":"520-621-1787","focus":"Development lead – College of Science","src":"science.arizona.edu"},
+{"unit":"Science","name":"James Francis","title":"Director, Development, College of Science","email":"jfrancis@arizona.edu","phone":"520-621-6721","focus":"Major gifts – Science","src":"science.arizona.edu"},
+{"unit":"Science","name":"Meaghan Sheehan","title":"Director, Development, College of Science","email":"meaghans@arizona.edu","phone":"520-621-1215","focus":"Major gifts – Science","src":"science.arizona.edu"},
+{"unit":"Science","name":"Michael Luria","title":"Assistant Dean, Corporate & Community Engagement, Science","email":"mjluria@arizona.edu","phone":"520-621-4090","focus":"Corporate & community relations – Science","src":"science.arizona.edu"},
+{"unit":"Central","name":"Bryan Rowland","title":"Senior Vice President, Development","email":"","phone":"","focus":"Enterprise development leadership","src":"uafoundation.org"},
+{"unit":"Central","name":"Paola Villar Werstler","title":"Senior Vice President, Principal Gifts Program","email":"","phone":"","focus":"Principal gifts","src":"uafoundation.org"}
+]},
+"University of Delaware": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Heather Barron","title":"Senior Director, Development, College of Engineering","email":"hbarron@udel.edu","phone":"302-831-8636","focus":"Development lead – Engineering","src":"udel.edu"},
+{"unit":"Medicine","name":"Dan Rogalski","title":"Senior Director, Development, Principal Gifts (Health Sciences)","email":"rogalski@udel.edu","phone":"302-831-6211","focus":"Development lead – College of Health Sciences","src":"udel.edu"},
+{"unit":"Science","name":"John Shipman","title":"Senior Director, Development, College of Arts & Sciences","email":"jshipman@udel.edu","phone":"","focus":"Development lead – A&S (incl. sciences)","src":"udel.edu"},
+{"unit":"Central","name":"Beth Brand","title":"Vice President, Development & Alumni Relations","email":"dar-vpres@udel.edu","phone":"302-831-2104","focus":"Chief development officer","src":"udel.edu"},
+{"unit":"Central","name":"Kris Graves","title":"SAVP for Presidential Initiatives & Principal Gifts","email":"gravesk@udel.edu","phone":"","focus":"Principal gifts","src":"udel.edu"},
+{"unit":"Central","name":"Scott Mangieri","title":"Senior Director, Corporate & Foundation Relations","email":"mangieri@udel.edu","phone":"","focus":"Corporate & foundation relations","src":"udel.edu"},
+{"unit":"Central","name":"Nathana Jackson","title":"Senior Director, Gift Planning","email":"ndlane@udel.edu","phone":"","focus":"Planned giving","src":"udel.edu"}
+]},
+"Northeastern University": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Tara Esfahanian","title":"Executive Director of Development, College of Engineering","email":"t.esfahanian@northeastern.edu","phone":"617-373-4353","focus":"Development lead – Engineering","src":"coe.northeastern.edu"},
+{"unit":"Engineering","name":"Laura Lubin","title":"Director of Leadership Giving, College of Engineering","email":"la.lubin@northeastern.edu","phone":"","focus":"Leadership giving – Engineering","src":"coe.northeastern.edu"},
+{"unit":"Engineering","name":"Marybeth Savicki","title":"Senior Director, Corporate & Foundation Relations","email":"m.savicki@northeastern.edu","phone":"","focus":"Corporate & foundation relations – Engineering","src":"advancement.northeastern.edu"},
+{"unit":"Medicine","name":"Kit McCarthy","title":"Senior Director of Major Gifts, Bouvé College of Health Sciences","email":"k.mccarthy@northeastern.edu","phone":"617-373-4965","focus":"Major gifts lead – Health Sciences","src":"advancement.northeastern.edu"},
+{"unit":"Medicine","name":"Julia Van","title":"Director, Corporate & Foundation Relations (Health Sciences)","email":"j.van@northeastern.edu","phone":"","focus":"Corporate & foundation relations – Health Sciences","src":"advancement.northeastern.edu"},
+{"unit":"Science","name":"Vanessa DeMichele","title":"Senior Director, Major Gifts, College of Science","email":"v.demichele@northeastern.edu","phone":"617-697-0850","focus":"Major gifts lead – College of Science","src":"cos.northeastern.edu"},
+{"unit":"Science","name":"James Poulos","title":"Assistant Vice President of Advancement (College of Science)","email":"j.poulos@northeastern.edu","phone":"617-373-2015","focus":"Oversees College of Science development","src":"advancement.northeastern.edu"},
+{"unit":"Central","name":"Robert Silk","title":"Senior AVP of Development","email":"r.silk@northeastern.edu","phone":"617-373-6554","focus":"Oversees Engineering, Health Sciences, CFR","src":"advancement.northeastern.edu"},
+{"unit":"Central","name":"Holly Foskett","title":"Executive Director, Corporate & Foundation Relations","email":"h.foskett@northeastern.edu","phone":"","focus":"CFR lead – Science & Engineering","src":"advancement.northeastern.edu"},
+{"unit":"Central","name":"Verónica Jorge-Curtis","title":"Executive Director of Development (Health Sciences, Science)","email":"v.jorge-curtis@northeastern.edu","phone":"617-373-5405","focus":"ED development – Health Sciences & Science","src":"cos.northeastern.edu"}
+]},
+"University of Tennessee Knoxville": {"decile":5,"contacts":[
+{"unit":"Engineering","name":"Adam Prescott","title":"Executive Director of Development, Tickle College of Engineering","email":"aprescot@utk.edu","phone":"865-974-2779","focus":"Development lead – Engineering","src":"tickle.utk.edu"},
+{"unit":"Engineering","name":"Amy Johnston","title":"Director of Development II, Engineering","email":"ajohn202@utk.edu","phone":"865-974-0323","focus":"Major gifts – Engineering","src":"tickle.utk.edu"},
+{"unit":"Engineering","name":"John Young","title":"Director of Development, Engineering","email":"jyoung20@utk.edu","phone":"865-974-6277","focus":"Major gifts – Engineering","src":"tickle.utk.edu"},
+{"unit":"Science","name":"Elizabeth Weatherly","title":"Executive Director of Development, College of Arts & Sciences","email":"eweatherly@utfi.org","phone":"865-974-8352","focus":"Development lead – A&S (incl. sciences)","src":"artsci.utk.edu"},
+{"unit":"Science","name":"Ryan Gibbons","title":"Director of Development for Natural Sciences & Mathematics","email":"rgibbon4@utk.edu","phone":"931-265-1583","focus":"Major gifts – natural sciences & math","src":"artsci.utk.edu"},
+{"unit":"Medicine","name":"UT Medical Center Office of Philanthropy","title":"Office of Philanthropy (Graduate School of Medicine / UTMC)","email":"giving@utmck.edu","phone":"865-305-6611","focus":"Major/planned/annual gifts – UT Medical Center (no individual officers published)","src":"utmedical.org"}
+]}
+}

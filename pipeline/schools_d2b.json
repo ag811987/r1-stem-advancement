@@ -1,0 +1,67 @@
+{
+"Massachusetts Institute of Technology": {"decile":2,"contacts":[
+{"unit":"Engineering","name":"Heather Kispert Hagerty","title":"Assistant Dean for Development, School of Engineering","email":"hkispert@mit.edu","phone":"617-258-9647","focus":"Development lead – School of Engineering","src":"imes.mit.edu"},
+{"unit":"Engineering","name":"Paul Keen","title":"Director of Development, Mechanical Engineering","email":"","phone":"617-715-3339","focus":"Major gifts – Mechanical Engineering","src":"officesdirectory.mit.edu"},
+{"unit":"Engineering","name":"Kate Reynolds","title":"Senior Leadership Giving Officer, Aeronautics & Astronautics","email":"","phone":"617-324-2771","focus":"Leadership gifts – AeroAstro","src":"officesdirectory.mit.edu"},
+{"unit":"Medicine","name":"Karen Sveda","title":"Managing Director of Development, Koch Institute","email":"ksveda@mit.edu","phone":"617-324-7399","focus":"Cancer research major/principal gifts","src":"ki.mit.edu"},
+{"unit":"Medicine","name":"Kara Flyg","title":"Director of Development, McGovern Institute for Brain Research","email":"kflyg@mit.edu","phone":"617-324-0134","focus":"Brain research major gifts","src":"mcgovern.mit.edu"},
+{"unit":"Medicine","name":"Asha Bhakar","title":"Director of Development, Picower Institute for Learning & Memory","email":"abhakar@mit.edu","phone":"617-258-0759","focus":"Neuroscience major gifts","src":"picower.mit.edu"},
+{"unit":"Science","name":"Jennifer Rosales","title":"Assistant Dean for Development, School of Science","email":"jenn24@mit.edu","phone":"617-258-7247","focus":"Development lead – School of Science","src":"science.mit.edu"},
+{"unit":"Science","name":"Erin McGrath Tribble","title":"Director of Development, Physics & Mathematics","email":"emcgrath@mit.edu","phone":"617-452-2807","focus":"Major gifts – Physics & Math","src":"physics.mit.edu"},
+{"unit":"Science","name":"Dooyon Cho","title":"Director of Development and Alumni Relations, Biology","email":"dooyon@mit.edu","phone":"617-452-3681","focus":"Major gifts – Biology","src":"biology.mit.edu"},
+{"unit":"Science","name":"Corrie Lefebvre","title":"Senior Individual Giving Officer, Chemistry","email":"corriel@mit.edu","phone":"","focus":"Major gifts – Chemistry","src":"chemistry.mit.edu"},
+{"unit":"Central","name":"Boi Carpenter","title":"Vice President for Resource Development","email":"boi@mit.edu","phone":"617-258-7996","focus":"Head of MIT fundraising","src":"officesdirectory.mit.edu"},
+{"unit":"Central","name":"Kurt Hinrichsen","title":"Executive Director, Philanthropic Partnerships (Major & Principal Gifts)","email":"kurthi@mit.edu","phone":"617-258-7169","focus":"Major and principal gifts","src":"officesdirectory.mit.edu"}
+]},
+"UC San Diego": {"decile":2,"contacts":[
+{"unit":"Engineering","name":"Adrienne Bolli","title":"Executive Director of Development","email":"abolli@ucsd.edu","phone":"619-709-4054","focus":"Development lead – Jacobs School of Engineering","src":"jacobsschool.ucsd.edu"},
+{"unit":"Engineering","name":"Colleen Doran","title":"Senior Director of Development","email":"c1doran@ucsd.edu","phone":"978-886-0040","focus":"Major gifts – Engineering","src":"jacobsschool.ucsd.edu"},
+{"unit":"Engineering","name":"Anthony Bradley","title":"Director of Development","email":"a6bradley@ucsd.edu","phone":"858-253-5847","focus":"Major gifts – Engineering","src":"jacobsschool.ucsd.edu"},
+{"unit":"Medicine","name":"Melanie Cruz","title":"Associate Vice Chancellor, Health Sciences Advancement","email":"mbcruz@ucsd.edu","phone":"858-534-2178","focus":"Health Sciences Advancement leadership","src":"advancement.ucsd.edu"},
+{"unit":"Medicine","name":"Kristin Waller-Donovan","title":"Executive Director of Development, Moores Cancer Center","email":"kwallerdonovan@ucsd.edu","phone":"858-531-3745","focus":"Cancer, regenerative & emergency medicine","src":"advancement.ucsd.edu"},
+{"unit":"Medicine","name":"Katarina Trojnar","title":"Executive Director of Development, Sanford Stem Cell Institute","email":"ktrojnar@ucsd.edu","phone":"202-730-5058","focus":"Stem cell / regenerative medicine","src":"advancement.ucsd.edu"},
+{"unit":"Medicine","name":"Helen Z. Liu","title":"Sr. Exec Director of Development, Cardiovascular & Strategic Initiatives","email":"hzliu@ucsd.edu","phone":"858-246-2794","focus":"Cardiovascular Institute major gifts","src":"advancement.ucsd.edu"},
+{"unit":"Medicine","name":"Laura Adler","title":"Senior Director of Development, Health Professional Schools","email":"lmadler@ucsd.edu","phone":"858-322-0295","focus":"School of Medicine, Pharmacy, Public Health","src":"advancement.ucsd.edu"},
+{"unit":"Science","name":"David Hanses","title":"Executive Director of Development, Scripps Oceanography","email":"dhanses@ucsd.edu","phone":"858-534-0298","focus":"Development lead – Marine/Earth Sciences","src":"scripps.ucsd.edu"},
+{"unit":"Science","name":"Claudia L. Ehrlich","title":"Senior Director of Development, Physical Sciences","email":"clehrlich@ucsd.edu","phone":"858-534-1171","focus":"Major gifts – School of Physical Sciences","src":"physicalsciences.ucsd.edu"},
+{"unit":"Science","name":"Julie K. Paolillo","title":"Director of Development, Biological Sciences","email":"jpaolillo@ucsd.edu","phone":"619-310-1381","focus":"Major gifts – Biological Sciences","src":"advancement.ucsd.edu"},
+{"unit":"Central","name":"Drew Hunsinger","title":"Associate Vice Chancellor, University Development","email":"dhunsinger@ucsd.edu","phone":"858-822-1070","focus":"General campus development leadership","src":"advancement.ucsd.edu"},
+{"unit":"Central","name":"Elise S. Wald","title":"Executive Director of Development, Gift Planning","email":"eswald@ucsd.edu","phone":"858-761-8457","focus":"Planned giving","src":"giftplanning.ucsd.edu"}
+]},
+"Carnegie Mellon University": {"decile":2,"contacts":[
+{"unit":"Engineering","name":"Mara Kudrick","title":"Interim Chief Advancement Officer, College of Engineering","email":"kmara@cmu.edu","phone":"412-268-2977","focus":"Advancement lead – College of Engineering","src":"engineering.cmu.edu"},
+{"unit":"Engineering","name":"Nicole Bernardi","title":"Director of Development, College of Engineering","email":"nwolford@andrew.cmu.edu","phone":"412-268-3722","focus":"Major gifts – Engineering","src":"engineering.cmu.edu"},
+{"unit":"Engineering","name":"Tiffany Sudar","title":"Director of Annual Giving, College of Engineering","email":"tsudar@andrew.cmu.edu","phone":"412-268-6480","focus":"Annual giving – Engineering","src":"engineering.cmu.edu"},
+{"unit":"Science","name":"Jeff Miracle","title":"Chief Advancement Officer, Mellon College of Science","email":"jeffmiracle@cmu.edu","phone":"412-268-2311","focus":"Advancement lead – Mellon College of Science","src":"cmu.edu"},
+{"unit":"Science","name":"Lisa Iruguin","title":"Senior Director of Development, Mellon College of Science","email":"lgeorgi@andrew.cmu.edu","phone":"412-268-2019","focus":"Major/principal gifts – Science","src":"cmu.edu"},
+{"unit":"Science","name":"Mitchell Coates","title":"Director of Development, Mellon College of Science","email":"mitchelc@andrew.cmu.edu","phone":"","focus":"Major gifts – Science","src":"cmu.edu"},
+{"unit":"Science","name":"Edward Dunlea","title":"Senior Director of Government and Corporate Relations, MCS","email":"edunlea@andrew.cmu.edu","phone":"412-268-3207","focus":"Corporate & foundation relations – Science","src":"cmu.edu"},
+{"unit":"Medicine","name":"Gerry Balbier","title":"Executive Director, Neuroscience Institute","email":"gbalbier@andrew.cmu.edu","phone":"412-268-9718","focus":"Neuroscience Institute giving lead (biomedical)","src":"cmu.edu"}
+]},
+"Ohio State University": {"decile":2,"contacts":[
+{"unit":"Engineering","name":"Sean Gallagher","title":"Executive Director of Development, College of Engineering","email":"gallagher.646@osu.edu","phone":"614-688-2153","focus":"Development lead – Engineering","src":"engineering.osu.edu"},
+{"unit":"Engineering","name":"Colleen Kelley","title":"Director of Development, Civil, Environmental & Geodetic Engineering","email":"kelley.1106@osu.edu","phone":"","focus":"Major gifts – Engineering","src":"ceg.osu.edu"},
+{"unit":"Science","name":"Phillip Howard","title":"Chief Advancement Officer, College of Arts and Sciences","email":"howard.2007@osu.edu","phone":"614-247-0022","focus":"Advancement lead – A&S (incl. sciences)","src":"artsandsciences.osu.edu"},
+{"unit":"Science","name":"Rick Harrison","title":"Senior Director of Development, Natural & Mathematical Sciences","email":"harrison.736@osu.edu","phone":"614-688-1385","focus":"Major gifts – natural & mathematical sciences","src":"artsandsciences.osu.edu"},
+{"unit":"Science","name":"Nathan Grine","title":"Director of Development, Natural & Mathematical Sciences","email":"grine.9@osu.edu","phone":"614-247-9207","focus":"Major gifts – natural & mathematical sciences","src":"artsandsciences.osu.edu"},
+{"unit":"Science","name":"Courtney Keys","title":"Director of Development, Natural & Mathematical Sciences","email":"key.48@osu.edu","phone":"614-247-1398","focus":"Major gifts – natural & mathematical sciences","src":"artsandsciences.osu.edu"},
+{"unit":"Medicine","name":"Kyle Lavetsky","title":"Senior Executive Director of Development, College of Medicine / Wexner","email":"lavetsky.1@osu.edu","phone":"614-292-5737","focus":"Development lead – College of Medicine / Wexner Medical Center","src":"externalaffairs.osu.edu"},
+{"unit":"Medicine","name":"Debbie Schroeder","title":"Assistant Vice President, Health Sciences Advancement","email":"schroeder.468@osu.edu","phone":"","focus":"Health sciences advancement","src":"externalaffairs.osu.edu"},
+{"unit":"Medicine","name":"Shane Peterson","title":"Senior Director of Development, Ophthalmology & Visual Sciences","email":"shane.peterson@osumc.edu","phone":"614-688-2320","focus":"Major gifts – ophthalmology","src":"medicine.osu.edu"},
+{"unit":"Central","name":"Sara E. Rubin","title":"Vice President for Development","email":"rubin.172@osu.edu","phone":"","focus":"University-wide development leadership","src":"externalaffairs.osu.edu"},
+{"unit":"Central","name":"Luiza Newlin-Lukowicz","title":"AVP for Corporate and Foundation Engagement","email":"newlin-lukowicz.1@osu.edu","phone":"","focus":"Corporate & foundation relations","src":"externalaffairs.osu.edu"},
+{"unit":"Central","name":"John C. Woods","title":"AVP for Estate and Gift Planning","email":"woods.715@osu.edu","phone":"","focus":"Planned/estate & gift planning","src":"externalaffairs.osu.edu"}
+]},
+"University of Minnesota-Twin Cities": {"decile":2,"contacts":[
+{"unit":"Engineering","name":"Justin Miedema","title":"Assistant Dean for Advancement, College of Science & Engineering","email":"jmiedema@umn.edu","phone":"612-624-4318","focus":"Advancement lead – College of Science & Engineering","src":"cse.umn.edu"},
+{"unit":"Engineering","name":"Courtney Billing","title":"Senior Director of Development","email":"cbilling@umn.edu","phone":"612-626-9501","focus":"Major gifts – CSE","src":"cse.umn.edu"},
+{"unit":"Engineering","name":"Anastacia Davis","title":"Senior Director of Development","email":"adavis@umn.edu","phone":"612-625-4509","focus":"Major gifts – CSE","src":"cse.umn.edu"},
+{"unit":"Engineering","name":"Katy Christianson","title":"Director of Corporate & Foundation Engagement, Science & Engineering","email":"kfischgr@umn.edu","phone":"612-625-8216","focus":"Corporate & foundation relations – CSE","src":"cse.umn.edu"},
+{"unit":"Science","name":"Gretchen Ambrosier","title":"Lead Development Officer, College of Biological Sciences","email":"gambros@umn.edu","phone":"","focus":"Major gifts / advancement lead – Biological Sciences","src":"cbs.umn.edu"},
+{"unit":"Medicine","name":"Catherine McGlinch","title":"Associate VP of Development, Medical School","email":"mcgra022@umn.edu","phone":"612-626-5456","focus":"Medical School development leadership","src":"med.umn.edu"},
+{"unit":"Medicine","name":"Elizabeth Patty","title":"Associate VP of Development, M Health Fairview","email":"patty@umn.edu","phone":"612-625-6136","focus":"Clinical / health system development leadership","src":"med.umn.edu"},
+{"unit":"Medicine","name":"Pam Johnson","title":"Director, Corporate & Foundation Engagement, Medical & Health Sciences","email":"pamjohns@umn.edu","phone":"612-626-9586","focus":"Medical corporate & foundation relations","src":"give.umn.edu"},
+{"unit":"Central","name":"Steve Corkery","title":"Vice President, Corporate & Foundation Engagement","email":"scorkery@umn.edu","phone":"612-624-9132","focus":"Corporate & foundation relations leadership","src":"give.umn.edu"},
+{"unit":"Central","name":"Susan Hommes","title":"Associate Vice President, Gift Planning","email":"shommes@umn.edu","phone":"612-624-8800","focus":"Planned giving leadership","src":"give.umn.edu"}
+]}
+}

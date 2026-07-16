@@ -1,0 +1,66 @@
+{
+"University of Oregon": {"decile":10,"contacts":[
+{"unit":"Medicine","name":"Callie Johnston","title":"AVP for Development & CDO, Knight Campus","email":"callie@uoregon.edu","phone":"541-346-7133","focus":"CDO – Knight Campus (bioengineering / biomedical)","src":"advancement.uoregon.edu"},
+{"unit":"Medicine","name":"Courtne Huffman","title":"Development & External Relations Project Manager, Knight Campus","email":"chuffman@uoregon.edu","phone":"","focus":"Development support – Knight Campus bioengineering","src":"knightcampus.uoregon.edu"},
+{"unit":"Science","name":"Cheryl Armstrong","title":"Executive Director for Central Development, College of Arts & Sciences","email":"armstr24@uoregon.edu","phone":"541-520-8832","focus":"Development lead – CAS (incl. natural sciences)","src":"cas.uoregon.edu"},
+{"unit":"Science","name":"Sarah Bungum","title":"Associate Director of Stewardship, College of Arts & Sciences","email":"sarahb@uoregon.edu","phone":"541-346-0045","focus":"Donor relations & stewardship – CAS","src":"cas.uoregon.edu"},
+{"unit":"Central","name":"Joseph Buck","title":"Vice President, University of Oregon Advancement","email":"jebuck@uoregon.edu","phone":"541-346-0556","focus":"Chief advancement officer","src":"advancement.uoregon.edu"},
+{"unit":"Central","name":"Wesley Ellison Stewart","title":"Senior Associate VP for Development","email":"wstewart@uoregon.edu","phone":"541-346-3749","focus":"Development leadership – college major-gift teams","src":"advancement.uoregon.edu"},
+{"unit":"Central","name":"Greg Jones","title":"AVP, Principal Giving","email":"gjones@uoregon.edu","phone":"541-346-2129","focus":"Principal gifts","src":"advancement.uoregon.edu"},
+{"unit":"Central","name":"Jesse Visser","title":"AVP, Central Development Programs","email":"visser@uoregon.edu","phone":"541-346-6084","focus":"Annual/leadership giving across colleges","src":"advancement.uoregon.edu"},
+{"unit":"Central","name":"Raphe Beck","title":"Executive Director, UO Alumni Association / AVP Alumni Relations","email":"rapheb@uoregon.edu","phone":"541-346-6317","focus":"Alumni relations","src":"advancement.uoregon.edu"}
+]},
+"Emory University": {"decile":10,"contacts":[
+{"unit":"Medicine","name":"Mary Ann Sprinkle","title":"VP for Advancement, Woodruff Health Sciences Center","email":"","phone":"","focus":"CDO – health sciences (Medicine, Winship, Nursing, Healthcare)","src":"whsc.emory.edu"},
+{"unit":"Medicine","name":"Freddie Marianacci","title":"Senior AVP for Medicine, Healthcare & Discovery Programs","email":"","phone":"","focus":"Senior advancement leadership – medicine & research","src":"winshipcancer.emory.edu"},
+{"unit":"Medicine","name":"Jennifer Morthland","title":"AVP of Advancement, Winship Cancer Institute","email":"","phone":"","focus":"Development lead – Winship Cancer Institute","src":"winshipcancer.emory.edu"},
+{"unit":"Medicine","name":"Irene Hammer-McLaughlin","title":"Executive Director of Development, Winship Cancer Institute","email":"","phone":"404-712-2896","focus":"Major/principal gifts – Winship","src":"winshipcancer.emory.edu"},
+{"unit":"Medicine","name":"Andrea Mendez","title":"Executive Director of Development, Emory Healthcare","email":"andrea.mendez@emory.edu","phone":"678-919-5159","focus":"Grateful-patient development – Emory Healthcare","src":"emoryhealthcare.org"},
+{"unit":"Medicine","name":"Angie Wright","title":"Assistant Dean for Advancement & Alumni Engagement, School of Nursing","email":"angie.wright@emory.edu","phone":"404-387-8830","focus":"Development lead – Nursing","src":"nursing.emory.edu"},
+{"unit":"Science","name":"Kate Lawlor","title":"AVP of Development, Emory College of Arts & Sciences","email":"kate.lawlor@emory.edu","phone":"404-712-0464","focus":"Development lead – College (incl. natural sciences)","src":"college.emory.edu"},
+{"unit":"Science","name":"Erin Horeni-Ogle","title":"Managing Senior Director of Development, Emory College","email":"ehoreni@emory.edu","phone":"865-441-1471","focus":"Major gifts – College (incl. natural sciences)","src":"college.emory.edu"},
+{"unit":"Science","name":"Brenda Tran","title":"Lead Director of Development, Emory College","email":"brenda.tran@emory.edu","phone":"404-368-0068","focus":"Major gifts – College (incl. natural sciences)","src":"college.emory.edu"},
+{"unit":"Science","name":"Jennifer Brazelton","title":"Director of Development, Emory College","email":"jennifer.brazelton@emory.edu","phone":"404-971-4425","focus":"Major gifts – College (incl. natural sciences)","src":"college.emory.edu"},
+{"unit":"Central","name":"Joshua R. Newton","title":"Senior VP, Advancement & Alumni Engagement","email":"","phone":"","focus":"Chief advancement officer","src":"together.emory.edu"},
+{"unit":"Central","name":"Jennifer Crabb Kyles","title":"AVP, Alumni and Constituent Engagement","email":"","phone":"","focus":"Alumni & constituent engagement","src":"together.emory.edu"}
+]},
+"University of Kansas": {"decile":10,"contacts":[
+{"unit":"Engineering","name":"Caleb Regan","title":"Director of Development & Team Lead, Engineering","email":"cregan@kuendowment.org","phone":"785-832-7321","focus":"Development lead – Engineering","src":"kuendowment.org"},
+{"unit":"Engineering","name":"Devante Green","title":"Development Director, Engineering","email":"dgreen@kuendowment.org","phone":"785-832-7417","focus":"Development – Engineering","src":"kuendowment.org"},
+{"unit":"Engineering","name":"Hannah DePriest","title":"Development Director, Engineering","email":"hdepriest@kuendowment.org","phone":"785-832-7468","focus":"Development – Engineering","src":"kuendowment.org"},
+{"unit":"Medicine","name":"Nell Lucas","title":"Vice President, Medical Development","email":"nlucas@kuendowment.org","phone":"913-562-2712","focus":"Development lead – KU Medical Center / Medicine","src":"kuendowment.org"},
+{"unit":"Medicine","name":"Krista Allen","title":"AVP, Medical Development","email":"kallen@kuendowment.org","phone":"913-562-2709","focus":"Medical development; former Cancer Center lead","src":"kuendowment.org"},
+{"unit":"Medicine","name":"Ryan Butts","title":"Director of Development & Team Lead, Medicine","email":"rbutts@kuendowment.org","phone":"913-562-2704","focus":"Major gifts – School of Medicine","src":"kuendowment.org"},
+{"unit":"Medicine","name":"Mary Needham","title":"Development Director, KU Cancer Center","email":"mneedham@kuendowment.org","phone":"913-562-2701","focus":"Major gifts – KU Cancer Center","src":"kuendowment.org"},
+{"unit":"Science","name":"Sheri Hamilton","title":"College Development Director & Team Lead","email":"shamilton@kuendowment.org","phone":"785-832-7454","focus":"Development lead – Liberal Arts & Sciences","src":"kuendowment.org"},
+{"unit":"Science","name":"Conor Taft","title":"Development Director, College","email":"ctaft@kuendowment.org","phone":"785-832-7386","focus":"Development – Liberal Arts & Sciences","src":"kuendowment.org"},
+{"unit":"Central","name":"Nancy Jackson","title":"Senior VP, Development (CDO)","email":"njackson@kuendowment.org","phone":"785-832-7460","focus":"Leads university-wide development","src":"kuendowment.org"},
+{"unit":"Central","name":"Andy Morrison","title":"Vice President, Gift Planning","email":"amorrison@kuendowment.org","phone":"785-832-7327","focus":"Planned/estate giving","src":"kuendowment.org"},
+{"unit":"Central","name":"Scott Zerger","title":"Director, Corporate and Foundation Development","email":"szerger@kuendowment.org","phone":"785-832-7426","focus":"Corporate & foundation relations","src":"kuendowment.org"}
+]},
+"Washington State University": {"decile":10,"contacts":[
+{"unit":"Engineering","name":"Bridget Pilcher","title":"Senior Director of Development, Voiland College of Engineering & Architecture","email":"pilcher@wsu.edu","phone":"509-335-0144","focus":"Development lead – Engineering","src":"foundation.wsu.edu"},
+{"unit":"Engineering","name":"Taylor Kensel","title":"Director of Development, Engineering","email":"taylor.kensel@wsu.edu","phone":"509-335-4144","focus":"Major gifts – Engineering","src":"foundation.wsu.edu"},
+{"unit":"Medicine","name":"Libby Manthei","title":"Senior Director of Development, Elson S. Floyd College of Medicine","email":"elizabeth.manthei@wsu.edu","phone":"509-358-7616","focus":"Development lead – Medicine","src":"foundation.wsu.edu"},
+{"unit":"Medicine","name":"Kelsea Nester","title":"Director of Development, College of Medicine","email":"kelsea.nester@wsu.edu","phone":"","focus":"Major gifts – Medicine","src":"medicine.wsu.edu"},
+{"unit":"Medicine","name":"Lynne Haley","title":"Senior Director of Development, College of Veterinary Medicine","email":"lynne_haley@wsu.edu","phone":"509-335-5021","focus":"Development lead – Veterinary Medicine","src":"foundation.wsu.edu"},
+{"unit":"Medicine","name":"Nicole Pratapas","title":"Vice Chancellor for Development, WSU Health Sciences Spokane","email":"nicole.pratapas@wsu.edu","phone":"509-358-7710","focus":"Development lead – Health Sciences Spokane","src":"foundation.wsu.edu"},
+{"unit":"Science","name":"Amy Cox","title":"Interim Senior Director of Development, College of Arts & Sciences","email":"amycox@wsu.edu","phone":"509-335-0419","focus":"Development lead – Arts & Sciences (incl. natural sciences)","src":"cas.wsu.edu"},
+{"unit":"Science","name":"Justin Smith","title":"Director of Development, College of Arts & Sciences","email":"jnsmith@wsu.edu","phone":"206-793-8184","focus":"Major gifts – Arts & Sciences","src":"cas.wsu.edu"},
+{"unit":"Central","name":"Mike Connell","title":"VP, WSU Advancement; CEO, WSU Foundation","email":"connell@wsu.edu","phone":"509-335-5865","focus":"Chief development officer","src":"foundation.wsu.edu"},
+{"unit":"Central","name":"Theresa Boyer","title":"Senior Director, Gift Planning","email":"theresa.boyer@wsu.edu","phone":"509-358-7584","focus":"Planned/estate giving","src":"foundation.wsu.edu"},
+{"unit":"Central","name":"Alex Pietsch","title":"Executive Director, Corporate Engagement","email":"alex.pietsch@wsu.edu","phone":"509-335-6686","focus":"Corporate relations","src":"foundation.wsu.edu"},
+{"unit":"Central","name":"Caroline Livingston","title":"Director of Donor Relations and Stewardship","email":"caroline.livingston@wsu.edu","phone":"509-335-4433","focus":"Stewardship / donor relations","src":"foundation.wsu.edu"}
+]},
+"University of California-Merced": {"decile":10,"contacts":[
+{"unit":"Medicine","name":"Lisa Pollard Carlson","title":"AVC & VP, UC Merced Foundation","email":"lpollard@ucmerced.edu","phone":"209-291-8169","focus":"Chief advancement leader; Medical Education / health-sciences giving contact","src":"meded.ucmerced.edu"},
+{"unit":"Central","name":"Terisa Roesler","title":"Executive Director, Major Giving","email":"troesler@ucmerced.edu","phone":"209-413-2016","focus":"Leads major/principal gifts across schools","src":"directory.ucmerced.edu"},
+{"unit":"Central","name":"Marci Gordon","title":"Executive Director of Institutional Giving","email":"marcigordon@ucmerced.edu","phone":"209-947-6029","focus":"Institutional/corporate & foundation giving","src":"directory.ucmerced.edu"},
+{"unit":"Central","name":"Meredith Fear","title":"Director, Foundation Relations","email":"mfear@ucmerced.edu","phone":"209-355-7538","focus":"Foundation relations / grants","src":"directory.ucmerced.edu"},
+{"unit":"Central","name":"Beverly Parayno","title":"Director, Corporate Relations","email":"beverlyparayno@ucmerced.edu","phone":"","focus":"Corporate relations","src":"directory.ucmerced.edu"},
+{"unit":"Central","name":"Brooke Gadasi","title":"Senior Regional Director of Development","email":"bgadasi@ucmerced.edu","phone":"209-291-6802","focus":"Major gifts (serving all schools)","src":"directory.ucmerced.edu"},
+{"unit":"Central","name":"Annie Nuttall","title":"Senior Regional Director of Development","email":"anuttall@ucmerced.edu","phone":"818-795-1046","focus":"Major gifts (serving all schools)","src":"directory.ucmerced.edu"},
+{"unit":"Central","name":"Bradley de la Cruz","title":"Regional Director of Development","email":"brad.delacruz@ucmerced.edu","phone":"209-308-9322","focus":"Major gifts (serving all schools)","src":"directory.ucmerced.edu"},
+{"unit":"Central","name":"Megan Miller","title":"Senior Advisor of Philanthropic Strategy and Operations","email":"mmiller24@ucmerced.edu","phone":"209-504-9935","focus":"Philanthropic strategy / campaign","src":"directory.ucmerced.edu"}
+]}
+}

@@ -1,0 +1,57 @@
+{
+"University of Kentucky": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Jana Kennelly","title":"Director of Philanthropy, Pigman College of Engineering","email":"jana.kennelly@uky.edu","phone":"859-257-9191","focus":"Major gifts – Engineering","src":"philanthropy.uky.edu"},
+{"unit":"Medicine","name":"Mike Harders","title":"AVP of Philanthropy, UK HealthCare & Health Colleges","email":"mikeharders@uky.edu","phone":"859-562-0992","focus":"Development lead – UK HealthCare & College of Medicine","src":"philanthropy.uky.edu"},
+{"unit":"Medicine","name":"Regan Blevins","title":"Director of Philanthropy, College of Medicine","email":"regan.blevins@uky.edu","phone":"859-553-3917","focus":"Major gifts – College of Medicine","src":"philanthropy.uky.edu"},
+{"unit":"Medicine","name":"Kristi Martin","title":"Philanthropy Executive Director, Markey Cancer Center","email":"kristi.martin@uky.edu","phone":"859-257-1179","focus":"Major/principal gifts – cancer","src":"philanthropy.uky.edu"},
+{"unit":"Science","name":"Laura Sutton","title":"Senior Major Gift Officer, Arts & Sciences","email":"lsutton@uky.edu","phone":"859-257-3551","focus":"Major gifts – A&S sciences","src":"philanthropy.uky.edu"},
+{"unit":"Science","name":"Amanda Trail","title":"Assistant Director of Philanthropy, Arts & Sciences","email":"amanda.trail@uky.edu","phone":"859-562-2126","focus":"Major gifts – A&S sciences","src":"philanthropy.uky.edu"},
+{"unit":"Central","name":"Jake Lemon","title":"VP for Philanthropy & Alumni Engagement; Chief Philanthropy Officer","email":"jlemon@uky.edu","phone":"859-257-3912","focus":"Chief development officer","src":"philanthropy.uky.edu"},
+{"unit":"Central","name":"Marci Hicks","title":"AVP for College/Unit Philanthropy","email":"marci.hicks@uky.edu","phone":"859-323-7882","focus":"Oversees college/unit development officers","src":"philanthropy.uky.edu"},
+{"unit":"Central","name":"Jessica Koenigsknecht-Talboo","title":"Director of Foundation & Corporate Philanthropy","email":"jessica.k@uky.edu","phone":"859-323-6570","focus":"Corporate & foundation relations","src":"philanthropy.uky.edu"}
+]},
+"Boston University": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Coralie Eggeling","title":"Assistant Dean, Development & Alumni Relations, College of Engineering","email":"eggeling@bu.edu","phone":"","focus":"Development lead – Engineering","src":"bu.edu"},
+{"unit":"Engineering","name":"Katherin Shevchenko","title":"Senior Major Gift Officer, College of Engineering","email":"kvs@bu.edu","phone":"","focus":"Major gifts – Engineering","src":"bu.edu"},
+{"unit":"Medicine","name":"Suzanne Maselli","title":"Associate Dean of Development, Chobanian & Avedisian School of Medicine","email":"","phone":"617-358-9530","focus":"Development lead – School of Medicine","src":"bumc.bu.edu"},
+{"unit":"Medicine","name":"Paula Prifti Weafer","title":"Senior Major Gift Officer, School of Medicine","email":"","phone":"617-358-9532","focus":"Major gifts – Medicine","src":"bumc.bu.edu"},
+{"unit":"Medicine","name":"David Gillerman","title":"Director of Foundation Relations, Medical Campus","email":"dgillerm@bu.edu","phone":"617-358-9529","focus":"Corporate & foundation relations – Medicine","src":"bu.edu"},
+{"unit":"Science","name":"Meghan Frost","title":"Assistant Dean, Development & Alumni Relations, College of Arts & Sciences","email":"","phone":"617-358-6376","focus":"Development lead – CAS (incl. sciences)","src":"bu.edu"},
+{"unit":"Science","name":"Gregg Carlo","title":"Associate Director of Development, College of Arts & Sciences","email":"gcarlo@bu.edu","phone":"617-358-0627","focus":"Major gifts – CAS sciences","src":"bu.edu"},
+{"unit":"Science","name":"Hank Geng","title":"Senior Leadership Gift Officer, College of Arts & Sciences","email":"","phone":"617-358-6205","focus":"Leadership/major gifts – CAS sciences","src":"bu.edu"},
+{"unit":"Central","name":"Anthony Barbuto","title":"Assistant Vice President, Leadership Gifts","email":"abarbuto@bu.edu","phone":"","focus":"University-wide leadership gifts","src":"bu.edu"},
+{"unit":"Central","name":"Tristan Barako","title":"Assistant Vice President, Foundation Relations","email":"tbarako@bu.edu","phone":"","focus":"University corporate & foundation relations","src":"bu.edu"}
+]},
+"William Marsh Rice University": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Cynthia Riley","title":"Senior Director of Development, Brown School of Engineering & Computing","email":"cynthia.c.riley@rice.edu","phone":"713-348-7347","focus":"Major/principal gifts – Engineering (incl. bioengineering)","src":"giving.rice.edu"},
+{"unit":"Engineering","name":"Katie Donovan","title":"Director of Development, Brown School of Engineering & Computing","email":"katiedonovan@rice.edu","phone":"713-348-4612","focus":"Major gifts – Engineering & Computing","src":"giving.rice.edu"},
+{"unit":"Science","name":"Jackie Macha","title":"Director of Development, Wiess School of Natural Sciences","email":"jackie.macha@rice.edu","phone":"713-348-4268","focus":"Major gifts – Natural Sciences","src":"giving.rice.edu"},
+{"unit":"Central","name":"Stephen Bayer","title":"Vice President for Development & Alumni Relations","email":"stephen.bayer@rice.edu","phone":"","focus":"Development leadership","src":"profiles.rice.edu"},
+{"unit":"Central","name":"David VanLone","title":"Associate Vice President for Principal Gifts","email":"","phone":"","focus":"Principal gifts","src":"dar.rice.edu"},
+{"unit":"Central","name":"Katie Cervenka","title":"Assistant Vice President, Corporate & Foundation Relations","email":"","phone":"","focus":"Corporate & foundation relations","src":"ocfr.rice.edu"},
+{"unit":"Central","name":"Stephanie Dugan","title":"Interim Executive Director of Gift Planning","email":"","phone":"713-348-6206","focus":"Planned giving","src":"giftplan.rice.edu"}
+]},
+"University of Connecticut": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Tiffany Hunt","title":"Executive Director of Development, Engineering","email":"thunt@foundation.uconn.edu","phone":"959-260-6610","focus":"Development lead – School of Engineering","src":"foundation.uconn.edu"},
+{"unit":"Engineering","name":"Caitlin Krouse","title":"Senior Director of Alumni Relations & Development, Engineering","email":"ckrouse@foundation.uconn.edu","phone":"860-207-0815","focus":"Alumni relations & development – Engineering","src":"foundation.uconn.edu"},
+{"unit":"Medicine","name":"Daniel Sullivan","title":"Senior AVP, Health Sciences & Medical Development","email":"dsullivan@foundation.uconn.edu","phone":"959-210-7665","focus":"Development lead – UConn Health / School of Medicine","src":"foundation.uconn.edu"},
+{"unit":"Medicine","name":"Kim Barkhamer","title":"Senior Director of Development, School of Medicine","email":"kbarkhamer@foundation.uconn.edu","phone":"860-377-1915","focus":"Major gifts – School of Medicine","src":"foundation.uconn.edu"},
+{"unit":"Medicine","name":"Kendall Guarneri","title":"Director of Principal Gifts, UConn Health","email":"kguarneri@foundation.uconn.edu","phone":"860-336-1468","focus":"Principal gifts – UConn Health","src":"foundation.uconn.edu"},
+{"unit":"Science","name":"Yanira Amadeo","title":"Executive Director of Development, College of Liberal Arts & Sciences","email":"yamadeo@foundation.uconn.edu","phone":"860-336-6367","focus":"Development lead – CLAS (incl. sciences)","src":"foundation.uconn.edu"},
+{"unit":"Science","name":"Alicia Barone","title":"Senior Director of Development, CLAS","email":"abarone@foundation.uconn.edu","phone":"860-576-0269","focus":"Major gifts – CLAS sciences","src":"foundation.uconn.edu"},
+{"unit":"Central","name":"Michael Van Sambeck","title":"VP of Principal Giving & Campaign Director","email":"mvansambeck@foundation.uconn.edu","phone":"860-576-3644","focus":"Principal gifts & campaign","src":"foundation.uconn.edu"},
+{"unit":"Central","name":"Sara Mahoney","title":"AVP for Corporate & Foundation Relations","email":"smahoney@foundation.uconn.edu","phone":"860-576-1092","focus":"Corporate & foundation relations","src":"foundation.uconn.edu"}
+]},
+"Washington University": {"decile":7,"contacts":[
+{"unit":"Engineering","name":"Bryce J. Krug","title":"Executive Director of Advancement, McKelvey School of Engineering","email":"bryce.krug@wustl.edu","phone":"314-935-9875","focus":"Development lead – Engineering","src":"engineering.washu.edu"},
+{"unit":"Engineering","name":"Justine Craig-Meyer","title":"Senior Strategy Officer, McKelvey Engineering","email":"craig-meyer.j@wustl.edu","phone":"314-935-3857","focus":"Major gift strategy – Engineering","src":"engineering.washu.edu"},
+{"unit":"Medicine","name":"Will Arvin","title":"Vice Chancellor of Medical Advancement","email":"arvinw@wustl.edu","phone":"314-935-6065","focus":"Development lead – WashU Medicine","src":"giving.med.wustl.edu"},
+{"unit":"Medicine","name":"Chad Ittner","title":"Associate Vice Chancellor of Medical Advancement","email":"cittner@wustl.edu","phone":"314-935-9718","focus":"Medical advancement leadership","src":"giving.med.wustl.edu"},
+{"unit":"Medicine","name":"Dina Althardt","title":"Executive Director of Advancement, Siteman Cancer Center","email":"dalthardt@wustl.edu","phone":"314-935-4550","focus":"Major gifts – cancer","src":"giving.med.wustl.edu"},
+{"unit":"Medicine","name":"Amy Smith","title":"Assistant Vice Chancellor, Medical Advancement (Corporate & Foundation Relations)","email":"smith.amy@wustl.edu","phone":"314-935-3424","focus":"Corporate & foundation relations – Medicine","src":"giving.med.wustl.edu"},
+{"unit":"Science","name":"Tom Eschen","title":"Interim Executive Director of Advancement, Arts & Sciences","email":"","phone":"","focus":"Development lead – A&S (incl. sciences)","src":"insideartsci.washu.edu"},
+{"unit":"Science","name":"Katie Merritt","title":"Director of Strategy (Major Gifts), Arts & Sciences","email":"katie.merritt@wustl.edu","phone":"314-935-9204","focus":"Major gifts – A&S sciences","src":"insideartsci.washu.edu"},
+{"unit":"Central","name":"Kelli Delfosse","title":"Executive Director, Corporate & Foundation Relations (Danforth)","email":"kelli.delfosse@wustl.edu","phone":"","focus":"Corporate & foundation relations – Engineering & A&S","src":"advancement.washu.edu"},
+{"unit":"Central","name":"Kenneth Stable","title":"Director, Planned Giving","email":"k.stable@wustl.edu","phone":"314-935-3495","focus":"Planned giving","src":"advancement.washu.edu"}
+]}
+}

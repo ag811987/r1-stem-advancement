@@ -1,0 +1,59 @@
+{
+"Virginia Polytechnic Institute and State University": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Jeremy Weaver","title":"Assistant Dean of Advancement","email":"jww18@vt.edu","phone":"540-231-2921","focus":"Advancement leadership – College of Engineering","src":"eng.vt.edu"},
+{"unit":"Engineering","name":"Jim Grove","title":"Senior Director of Major Gifts","email":"jtgrove@vt.edu","phone":"540-231-4663","focus":"Major gifts – Engineering","src":"eng.vt.edu"},
+{"unit":"Engineering","name":"Ruth Marquardt","title":"Director of Major Gifts","email":"rwodom21@vt.edu","phone":"","focus":"Major gifts – Engineering","src":"eng.vt.edu"},
+{"unit":"Engineering","name":"Corey Miles","title":"Assistant Director of Gift Planning","email":"mcmiles@vt.edu","phone":"","focus":"Planned giving – Engineering","src":"eng.vt.edu"},
+{"unit":"Medicine","name":"Sandra Torget","title":"Assistant Dean of Advancement, Veterinary Medicine","email":"storget@vt.edu","phone":"540-231-4716","focus":"Advancement leadership – Veterinary Medicine","src":"vetmed.vt.edu"},
+{"unit":"Medicine","name":"Maggie Meikle","title":"Director of Major Gifts","email":"mjmeikle@vt.edu","phone":"540-231-4259","focus":"Major gifts – Veterinary Medicine","src":"vetmed.vt.edu"},
+{"unit":"Medicine","name":"Shawn McDaniel","title":"Executive Director of Development, Health Sciences & Fralin Biomedical Research Institute","email":"smcdaniel@vtc.vt.edu","phone":"","focus":"Development lead – biomedical research (Fralin/VTC)","src":"fbri.vtc.vt.edu"},
+{"unit":"Science","name":"Jenny Orzolek","title":"Senior Director of Major Gifts","email":"jorzolek@vt.edu","phone":"540-231-5643","focus":"Major gifts – College of Science","src":"science.vt.edu"},
+{"unit":"Science","name":"Marion Cordova","title":"Assistant Director of Leadership Gifts","email":"marion22@vt.edu","phone":"540-231-9183","focus":"Leadership/annual gifts – College of Science","src":"science.vt.edu"}
+]},
+"Johns Hopkins University": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Serena Savino","title":"Associate Dean for Development & Alumni Relations, Whiting School of Engineering","email":"ssavino3@jh.edu","phone":"410-516-5608","focus":"Development lead – Engineering","src":"giving.jhu.edu"},
+{"unit":"Science","name":"Corie Hoffberger","title":"Associate Dean for Development, Krieger School of Arts & Sciences","email":"choffbe1@jhu.edu","phone":"","focus":"Development lead – A&S (incl. natural sciences)","src":"giving.jhu.edu"},
+{"unit":"Medicine","name":"Alice McMurry","title":"Interim Associate Dean of Development, Bloomberg School of Public Health","email":"amcmurr6@jh.edu","phone":"410-955-5194","focus":"Development lead – Public Health","src":"publichealth.jhu.edu"},
+{"unit":"Medicine","name":"Michael Hibler","title":"AVP of Development, Sidney Kimmel Comprehensive Cancer Center","email":"kimmelgiving@jhmi.edu","phone":"410-361-6391","focus":"Principal/major gifts – cancer center","src":"giving.jhu.edu"},
+{"unit":"Medicine","name":"Sarah Farrell","title":"Executive Director of Development, Basic Biomedical Sciences & Genetic Medicine","email":"sfarrell@jhmi.edu","phone":"443-287-0582","focus":"Major/principal gifts – basic biomedical science","src":"giving.jhu.edu"},
+{"unit":"Medicine","name":"Shelley Cooke","title":"Executive Director of Development, Department of Medicine","email":"scooke@jhmi.edu","phone":"202-657-3285","focus":"Major/principal gifts – Medicine","src":"giving.jhu.edu"},
+{"unit":"Medicine","name":"Megan Ward","title":"Executive Director of Development, Wilmer Eye Institute","email":"meganward@jhmi.edu","phone":"410-955-2020","focus":"Major/principal gifts – Wilmer Eye Institute","src":"giving.jhu.edu"},
+{"unit":"Medicine","name":"Kimberly Willis","title":"Executive Director of Development, Neurology & Brain Sciences","email":"kwillis@jhmi.edu","phone":"443-287-7877","focus":"Major/principal gifts – Neurology","src":"giving.jhu.edu"},
+{"unit":"Medicine","name":"Robin A. H. Ingram","title":"AVP, School of Medicine Alumni Relations","email":"rhunt11@jhmi.edu","phone":"410-361-6565","focus":"Alumni relations lead – School of Medicine","src":"hopkinsmedicine.org"},
+{"unit":"Central","name":"Ann L. Koch","title":"Executive Director, Foundation Relations","email":"akoch@jhu.edu","phone":"667-306-9100","focus":"University foundation relations","src":"giving.jhu.edu"},
+{"unit":"Central","name":"Anne Doyle","title":"Executive Director, Gift Planning","email":"giftplanning@jhu.edu","phone":"800-528-1268","focus":"Planned/gift planning","src":"giving.jhu.edu"}
+]},
+"Columbia University": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Keely Henderson","title":"Senior Associate Dean of Advancement, SEAS","email":"","phone":"","focus":"Advancement leadership – Fu Foundation Engineering","src":"bulletin.columbia.edu"},
+{"unit":"Engineering","name":"Christina Vellios","title":"Executive Director, Development, SEAS","email":"","phone":"","focus":"Development lead – Engineering","src":"bulletin.columbia.edu"},
+{"unit":"Engineering","name":"Cecily Castle","title":"Senior Major Gifts Officer, SEAS","email":"","phone":"","focus":"Major gifts – Engineering","src":"bulletin.columbia.edu"},
+{"unit":"Engineering","name":"Chelsea Meyer","title":"Associate Director for Development Marketing & Annual Giving, SEAS","email":"cm4600@columbia.edu","phone":"646-745-8409","focus":"Annual giving – Engineering","src":"engineering.columbia.edu"},
+{"unit":"Medicine","name":"Kris Davitt","title":"Senior Vice President, Development, CUIMC","email":"kd3073@cumc.columbia.edu","phone":"212-305-5404","focus":"Chief development officer – Irving Medical Center","src":"giving.cuimc.columbia.edu"},
+{"unit":"Medicine","name":"Kristen Mahood","title":"Vice President, Development, Vagelos College of Physicians & Surgeons","email":"kristen.mahood@columbia.edu","phone":"347-501-1721","focus":"Development lead – medical school","src":"giving.cuimc.columbia.edu"},
+{"unit":"Science","name":"Corey S. Aronstam","title":"Deputy Vice President for Development, Arts & Sciences","email":"ca2433@columbia.edu","phone":"212-851-7458","focus":"A&S development leadership (incl. sciences)","src":"college.columbia.edu"},
+{"unit":"Science","name":"Amanda J. Lasker","title":"Senior Executive Director for Development, Arts & Sciences","email":"ak2934@columbia.edu","phone":"212-851-9865","focus":"Major gifts – A&S sciences","src":"college.columbia.edu"},
+{"unit":"Central","name":"Dimitra Koutsantoni","title":"Executive Director of University Corporate & Foundation Relations","email":"dk2617@columbia.edu","phone":"","focus":"University corporate & foundation relations","src":"giving.columbia.edu"}
+]},
+"UC Irvine": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Keith Yeung","title":"Director of Development, Samueli School of Engineering","email":"kpyeung@uci.edu","phone":"949-824-3886","focus":"Major gifts – Engineering","src":"engineering.uci.edu"},
+{"unit":"Medicine","name":"Matt Spencer","title":"Interim AVC & Senior Executive Director of Development, Health Advancement","email":"matt.spencer@uci.edu","phone":"714-509-2112","focus":"Development lead – UCI Health / School of Medicine","src":"healthaffairs.uci.edu"},
+{"unit":"Medicine","name":"Leslie Lichtenstein","title":"Executive Director of Development, Health Affairs","email":"llichten@hs.uci.edu","phone":"","focus":"Major gifts – School of Medicine","src":"healthaffairs.uci.edu"},
+{"unit":"Medicine","name":"Jenn Sarrail","title":"Director of Development, UCI Health Advancement","email":"jsarrail@uci.edu","phone":"714-456-8553","focus":"Major gifts – Chao Family Cancer Center","src":"cancer.uci.edu"},
+{"unit":"Science","name":"Sharon Chang","title":"Executive Director of Development, Physical Sciences","email":"sharon.chang@uci.edu","phone":"657-640-7031","focus":"Development lead – Physical Sciences","src":"ps.uci.edu"},
+{"unit":"Science","name":"Steven Tomiyama","title":"Director of Development, Physical Sciences","email":"steven.tomiyama@uci.edu","phone":"949-824-3684","focus":"Major gifts – Physical Sciences","src":"ps.uci.edu"},
+{"unit":"Science","name":"Hazel Carpenter","title":"Executive Director of Development, Biological Sciences","email":"hazeljc@uci.edu","phone":"949-824-8397","focus":"Development lead – Biological Sciences","src":"bio.uci.edu"},
+{"unit":"Central","name":"Brian T. Hervey","title":"Vice Chancellor, University Advancement & Alumni Relations","email":"bhervey@uci.edu","phone":"949-824-7915","focus":"Campus chief development officer","src":"advancement.uci.edu"},
+{"unit":"Central","name":"M. Roxanne Ford","title":"Executive Director, Corporate & Foundation Relations","email":"fordmr@uci.edu","phone":"949-824-8171","focus":"Corporate & foundation relations (Eng, Bio, Physical Sci)","src":"advancement.uci.edu"}
+]},
+"Iowa State University": {"decile":3,"contacts":[
+{"unit":"Engineering","name":"Carrie Sutherland","title":"Executive Director of Development, College of Engineering","email":"csutherland@foundation.iastate.edu","phone":"515-294-4489","focus":"Development lead – Engineering","src":"engineering.iastate.edu"},
+{"unit":"Engineering","name":"Shelly Jordan","title":"Senior Director of Development","email":"sljordan@iastate.edu","phone":"515-620-2323","focus":"Major gifts – Engineering","src":"engineering.iastate.edu"},
+{"unit":"Engineering","name":"Carol Park","title":"Director of Development","email":"cpark@foundation.iastate.edu","phone":"515-294-7118","focus":"Major gifts – Engineering","src":"engineering.iastate.edu"},
+{"unit":"Medicine","name":"Trent Wellman","title":"Executive Director of Development, College of Veterinary Medicine","email":"twellman@foundation.iastate.edu","phone":"515-294-4675","focus":"Development lead – Veterinary Medicine","src":"vetmed.iastate.edu"},
+{"unit":"Medicine","name":"Rachael Rail","title":"Director of Development, Veterinary Medicine","email":"rrail@foundation.iastate.edu","phone":"515-294-1593","focus":"Major gifts – Veterinary Medicine","src":"vetmed.iastate.edu"},
+{"unit":"Science","name":"Eric Bentzinger","title":"Interim Executive Director of Development, Liberal Arts & Sciences","email":"ericb@iastate.edu","phone":"515-294-4721","focus":"Development lead – LAS sciences","src":"las.iastate.edu"},
+{"unit":"Science","name":"Justin Haas","title":"Director of Development, Liberal Arts & Sciences","email":"haas@iastate.edu","phone":"515-294-4607","focus":"Major gifts – LAS sciences","src":"las.iastate.edu"},
+{"unit":"Science","name":"Sarah Roelfs","title":"Executive Director of Development, Agriculture & Life Sciences","email":"sroelfs@foundation.iastate.edu","phone":"","focus":"Development lead – life sciences (CALS)","src":"cals.iastate.edu"},
+{"unit":"Central","name":"Jeremy Galvin","title":"Vice President & Chief Development Officer, ISU Foundation","email":"","phone":"","focus":"University-wide development leadership","src":"foundation.iastate.edu"}
+]}
+}

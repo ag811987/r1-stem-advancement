@@ -1,0 +1,63 @@
+{
+"University of Pennsylvania": {"decile":6,"contacts":[
+{"unit":"Engineering","name":"Vanessa White","title":"Vice Dean for Development & Alumni Relations, Penn Engineering","email":"vanwhite@engineering.upenn.edu","phone":"215-898-6564","focus":"Development lead – Engineering","src":"dar.engineering.upenn.edu"},
+{"unit":"Engineering","name":"Alissa Lurie","title":"Executive Director of Development, Penn Engineering","email":"alurie@engineering.upenn.edu","phone":"","focus":"Major/principal gifts – Engineering","src":"dar.engineering.upenn.edu"},
+{"unit":"Engineering","name":"Danny Levi","title":"Director of Major Gifts, Penn Engineering","email":"danlevi@engineering.upenn.edu","phone":"","focus":"Major gifts – Engineering","src":"dar.engineering.upenn.edu"},
+{"unit":"Medicine","name":"Torren Blair","title":"Chief Advancement Officer, Penn Medicine","email":"torrenb@upenn.edu","phone":"215-898-7680","focus":"Development lead – Perelman School of Medicine","src":"giving.upenn.edu"},
+{"unit":"Medicine","name":"Kathleen P. Hertkorn","title":"Senior ED of Development & Principal Gifts (Abramson Cancer Center)","email":"khertkor@upenn.edu","phone":"215-898-1033","focus":"Principal/major gifts – cancer","src":"pennmedicine.org"},
+{"unit":"Medicine","name":"Scott Harkey","title":"Senior Director of Development & Planned Giving, Perelman SOM","email":"harkeys@upenn.edu","phone":"215-746-3005","focus":"Major gifts / planned giving – Medicine","src":"alumni.upenn.edu"},
+{"unit":"Medicine","name":"Lisa S. Katz","title":"Director of Leadership Gifts, Perelman SOM","email":"lisakatz@upenn.edu","phone":"215-898-9693","focus":"Leadership gifts – Medicine","src":"alumni.upenn.edu"},
+{"unit":"Science","name":"Deborah Rhebergen","title":"Vice Dean for Advancement, Penn Arts & Sciences","email":"drheberg@sas.upenn.edu","phone":"215-898-9942","focus":"Development lead – Arts & Sciences (incl. sciences)","src":"sas.upenn.edu"},
+{"unit":"Science","name":"Laura Weber","title":"Assistant Vice Dean for Advancement, Penn Arts & Sciences","email":"lweber@sas.upenn.edu","phone":"","focus":"Advancement leadership – A&S sciences","src":"sas.upenn.edu"},
+{"unit":"Central","name":"Kathryn Griffo","title":"Vice President for Development & Alumni Relations","email":"vpdar@dev.upenn.edu","phone":"215-898-3653","focus":"University-wide development leadership","src":"giving.upenn.edu"},
+{"unit":"Central","name":"Paul B. Mischler","title":"Chief Philanthropy Officer","email":"mischler@upenn.edu","phone":"215-746-8844","focus":"University-wide philanthropy leadership","src":"giving.upenn.edu"},
+{"unit":"Central","name":"Wylie A. Thomas","title":"Senior AVP for University Development","email":"wthomas@upenn.edu","phone":"215-898-3878","focus":"Major/principal gifts leadership","src":"giving.upenn.edu"}
+]},
+"University of Texas at Dallas": {"decile":6,"contacts":[
+{"unit":"Engineering","name":"Iram Hasan","title":"Assistant Dean of Development & Alumni Relations, Jonsson School","email":"iram.hasan@utdallas.edu","phone":"972-883-6289","focus":"Development lead – Engineering & Computer Science","src":"development.utdallas.edu"},
+{"unit":"Engineering","name":"Tracy Ferguson","title":"Director of Development, Jonsson School","email":"tracy.ferguson@utdallas.edu","phone":"972-883-6292","focus":"Major gifts – Engineering & Computer Science","src":"development.utdallas.edu"},
+{"unit":"Engineering","name":"Rod Wetterskog","title":"Assistant Dean of Corporate Relations, Jonsson School","email":"wetterskog@utdallas.edu","phone":"972-883-2182","focus":"Corporate relations – Engineering","src":"development.utdallas.edu"},
+{"unit":"Medicine","name":"Erin Dougherty","title":"Senior Director of Development (Center for Vital Longevity)","email":"erin.dougherty@utdallas.edu","phone":"972-883-3938","focus":"Major gifts – BrainHealth / Vital Longevity","src":"development.utdallas.edu"},
+{"unit":"Medicine","name":"Rebecca Fisher","title":"Assistant Director of Philanthropy & Campaigns (Center for BrainHealth)","email":"rebecca.fisher@utdallas.edu","phone":"972-883-3403","focus":"Development – Center for BrainHealth","src":"centerforbrainhealth.org"},
+{"unit":"Science","name":"Kristi Ruiz","title":"Director of Development, School of Natural Sciences & Mathematics","email":"kristy.ruiz@utdallas.edu","phone":"972-883-3945","focus":"Major gifts – Natural Sciences & Mathematics","src":"development.utdallas.edu"},
+{"unit":"Central","name":"Shanon Patrick","title":"Interim Vice President, Development & Alumni Relations","email":"shanon.patrick@utdallas.edu","phone":"972-883-5391","focus":"Development leadership","src":"development.utdallas.edu"},
+{"unit":"Central","name":"Julie Piccirillo","title":"Senior Director, Corporate & Foundation Relations","email":"julie.piccirillo@utdallas.edu","phone":"972-883-5378","focus":"Corporate & foundation relations","src":"development.utdallas.edu"},
+{"unit":"Central","name":"Michael Gute","title":"Director, Gift Planning","email":"michael.gute@utdallas.edu","phone":"972-883-3915","focus":"Planned giving","src":"development.utdallas.edu"}
+]},
+"Rutgers University New Brunswick": {"decile":6,"contacts":[
+{"unit":"Engineering","name":"Maria D. Sorensen","title":"Senior Director of Development for Engineering","email":"mdsoren@soe.rutgers.edu","phone":"848-445-2369","focus":"Major gifts – School of Engineering","src":"soe.rutgers.edu"},
+{"unit":"Medicine","name":"Peter Lamothe","title":"Vice President, Development, Rutgers Health","email":"peter.lamothe@rutgersfoundation.org","phone":"848-932-7777","focus":"Development lead – Rutgers Health / RWJMS","src":"support.rutgers.edu"},
+{"unit":"Medicine","name":"Loren Savage","title":"AVP, Rutgers Health; CDO, Rutgers Cancer Institute","email":"loren.savage@rutgersfoundation.org","phone":"908-500-9858","focus":"Cancer Institute development leadership","src":"cinj.org"},
+{"unit":"Medicine","name":"Chelsea Irvin","title":"Senior Director of Development, Rutgers Cancer Institute","email":"chelsea.irvin@rutgersfoundation.org","phone":"848-932-7976","focus":"Major gifts – cancer","src":"cinj.org"},
+{"unit":"Medicine","name":"Alexa Comuniello","title":"Associate Director of Development, RWJMS","email":"alexa.comuniello@rutgersfoundation.org","phone":"","focus":"Major gifts – Robert Wood Johnson Medical School","src":"rwjms.rutgers.edu"},
+{"unit":"Science","name":"Rob Eccles","title":"Senior Director of Development, School of Arts & Sciences","email":"rob.eccles@rutgers.edu","phone":"","focus":"Development lead – SAS sciences","src":"sas.rutgers.edu"},
+{"unit":"Science","name":"Natalie Margolin","title":"Associate Director of Development, Life Sciences (SAS)","email":"natalie.margolin@rutgersfoundation.org","phone":"","focus":"Major gifts – Life Sciences","src":"sas.rutgers.edu"},
+{"unit":"Science","name":"Gabriella Carbone","title":"Associate Director of Development, Mathematical & Physical Sciences (SAS)","email":"gabriella.carbone@sas.rutgers.edu","phone":"","focus":"Major gifts – Math & Physical Sciences","src":"sas.rutgers.edu"},
+{"unit":"Central","name":"Kimberly A. Hopely","title":"EVP for Development & Alumni Engagement; President, Rutgers Foundation","email":"president@rutgersfoundation.org","phone":"848-932-7777","focus":"University-wide development leadership","src":"support.rutgers.edu"},
+{"unit":"Central","name":"Lavinia Boxill","title":"Senior Vice President, Development, Rutgers–New Brunswick","email":"lavinia.boxill@rutgersfoundation.org","phone":"848-932-7777","focus":"New Brunswick campus development (Eng & SAS)","src":"support.rutgers.edu"}
+]},
+"University of South Carolina at Columbia": {"decile":6,"contacts":[
+{"unit":"Engineering","name":"Bree Bess","title":"Director of Development, CFR (Molinaroli College of Engineering & Computing)","email":"bess@mailbox.sc.edu","phone":"803-544-1122","focus":"Corporate & foundation / major gifts – Engineering","src":"sc.edu"},
+{"unit":"Engineering","name":"Julia Heyward","title":"Director of Development, Engineering & Computing","email":"jah49@mailbox.sc.edu","phone":"","focus":"Major gifts – Engineering","src":"sc.edu"},
+{"unit":"Medicine","name":"Bryan Winters","title":"Lead Senior Director of Advancement, School of Medicine Columbia","email":"bryan.winters@uscmed.sc.edu","phone":"","focus":"Development lead – School of Medicine","src":"sc.edu"},
+{"unit":"Medicine","name":"Brady Bramlett","title":"Senior Director of Development, School of Medicine Columbia","email":"bradybramlett@sc.edu","phone":"","focus":"Major gifts – School of Medicine","src":"sc.edu"},
+{"unit":"Science","name":"Abraham Cross","title":"Senior Lead Director of Advancement, College of Arts & Sciences","email":"ac344@mailbox.sc.edu","phone":"314-858-4324","focus":"Development lead – A&S (incl. sciences)","src":"sc.edu"},
+{"unit":"Science","name":"Ashley Smith","title":"Senior Director of Development, College of Arts & Sciences","email":"lindsay1@mailbox.sc.edu","phone":"803-422-5271","focus":"Major gifts – A&S sciences","src":"sc.edu"},
+{"unit":"Science","name":"Geleen Reed-Toresdahl","title":"Senior Director of Development, College of Arts & Sciences","email":"geleen@mailbox.sc.edu","phone":"515-490-6885","focus":"Major gifts – A&S sciences","src":"sc.edu"},
+{"unit":"Central","name":"Michelle Dodenhoff","title":"Vice President for Development","email":"mdodenhoff@sc.edu","phone":"803-777-8315","focus":"Chief development officer","src":"sc.edu"},
+{"unit":"Central","name":"Jennifer McCormack","title":"AVP, Corporate & Foundation Relations","email":"mccormjn@mailbox.sc.edu","phone":"803-777-5076","focus":"Corporate & foundation relations","src":"sc.edu"},
+{"unit":"Central","name":"LaTanza Duncan","title":"Senior Director of Development, Principal Gifts","email":"duncanl8@mailbox.sc.edu","phone":"803-777-6195","focus":"Principal gifts","src":"sc.edu"}
+]},
+"George Mason University": {"decile":6,"contacts":[
+{"unit":"Engineering","name":"Bonnie Crews","title":"Senior Director of Development, College of Engineering & Computing","email":"crews@gmu.edu","phone":"703-993-6819","focus":"Development lead – Engineering & Computing","src":"giving.gmu.edu"},
+{"unit":"Engineering","name":"Kira Woitek","title":"Director of Development, Individual Giving (Engineering & Computing)","email":"kwoitek@gmu.edu","phone":"703-993-1704","focus":"Major gifts – Engineering & Computing","src":"giving.gmu.edu"},
+{"unit":"Engineering","name":"Valerie Blaemire","title":"Director of Development, Corporate Giving (Engineering & Computing)","email":"vblaemir@gmu.edu","phone":"703-993-3310","focus":"Corporate giving – Engineering & Computing","src":"giving.gmu.edu"},
+{"unit":"Medicine","name":"Nicholas Field-Johnson","title":"Associate Director of Development, College of Public Health","email":"nfieldjo@gmu.edu","phone":"703-993-1204","focus":"Major/annual gifts – Public Health (health)","src":"giving.gmu.edu"},
+{"unit":"Science","name":"Audrey Kelaher","title":"Senior Director of Development & Alumni Relations, College of Science","email":"akelahe@gmu.edu","phone":"703-993-3436","focus":"Development lead – College of Science","src":"giving.gmu.edu"},
+{"unit":"Science","name":"Franklin Van Valkenburg","title":"Associate Director of Constituent Engagement, College of Science","email":"fvanvalk@gmu.edu","phone":"","focus":"Alumni/annual giving – College of Science","src":"giving.gmu.edu"},
+{"unit":"Central","name":"Trishana E. Bowden","title":"VP, Advancement & Alumni Relations; President, GMU Foundation","email":"tbowden2@gmu.edu","phone":"703-993-1184","focus":"Chief advancement officer","src":"giving.gmu.edu"},
+{"unit":"Central","name":"Todd Marrs","title":"Assistant Vice President, Development","email":"dmarrs@gmu.edu","phone":"703-993-2173","focus":"Oversees major gift development across colleges","src":"giving.gmu.edu"},
+{"unit":"Central","name":"Lauren Bird","title":"AVP, Corporations & Foundations and University Priorities","email":"lbird4@gmu.edu","phone":"703-993-9537","focus":"Corporate & foundation relations leadership","src":"giving.gmu.edu"},
+{"unit":"Central","name":"Aquanetta Betts","title":"Director of Planned Giving","email":"abetts2@gmu.edu","phone":"703-993-6971","focus":"Planned giving","src":"giving.gmu.edu"}
+]}
+}
