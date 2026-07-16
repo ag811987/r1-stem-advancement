@@ -1,45 +1,346 @@
 {
-"walla203@msu.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Michael","school_hint":"Michigan State"},
-"aimee.jirak@osufoundation.org": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Aimee","school_hint":"Oregon State"},
-"ddasilva@stevens.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Dawn","school_hint":"Stevens"},
-"iyall@uw.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"David","school_hint":"UW Engineering"},
-"tabakker@alaska.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Theresa","school_hint":"Alaska"},
-"maasims@ucsc.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Molly","school_hint":"UC Santa Cruz"},
-"jbw54@pitt.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Jodi","school_hint":"Pitt"},
-"jamore24@central.uh.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Alex","school_hint":"Houston"},
-"dbarstow@uma-foundation.org": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Diane","school_hint":"UMass Amherst"},
-"jacqueline.maloney@unr.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Jacqueline","school_hint":"Nevada"},
-"sjs422@cornell.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Stephen","school_hint":"Cornell"},
-"josh.grant@utah.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Josh","school_hint":"Utah"},
-"sharp@whoi.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Samuel","school_hint":"Woods Hole"},
-"michaela.collins1@uga.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Michaela","school_hint":"Georgia"},
-"mikeharders@uky.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Mike","school_hint":"Kentucky"},
-"emily.bridson@unmfund.org": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Emily","school_hint":"New Mexico"},
-"lisa.hall@rochester.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Lisa","school_hint":"Rochester"},
-"jeweiner@stanford.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Julia","school_hint":"Stanford"},
-"madrake@umich.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Mike","school_hint":"Michigan"},
-"tmazler@support.ucla.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Tessa","school_hint":"UCLA"},
-"dubron.rabb@ucr.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"DuBron","school_hint":"UC Riverside"},
-"ginger.morehouse@colostate.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Ginger","school_hint":"Colorado State"},
-"tbowden2@gmu.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Trishana","school_hint":"George Mason"},
-"cmarshall@lsufoundation.org": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Chris","school_hint":"LSU"},
-"gallagher.646@osu.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Sean","school_hint":"Ohio State"},
-"cynthia.beach@yale.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Cynthia","school_hint":"Yale"},
-"milesdi@auburn.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Diana","school_hint":"Auburn"},
-"kati.martinez@asufoundation.org": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Kati","school_hint":"Arizona State"},
-"hpatel3@clemson.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Heather","school_hint":"Clemson"},
-"nsmilowitz@advance.fsu.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Nancy","school_hint":"Florida State"},
-"erich@ksufoundation.org": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Eric","school_hint":"Kansas State"},
-"jhbreit@illinois.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Jessica","school_hint":"Illinois"},
-"lynn.hawks@ucsb.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Lynn","school_hint":"UCSB"},
-"charisse.pudiquet@uhfoundation.org": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Charisse","school_hint":"Hawaii"},
-"jdpaul@ua.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Jake","school_hint":"Alabama"},
-"jschwar2@umd.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Jennifer","school_hint":"Maryland"},
-"mml2r@virginia.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Mark","school_hint":"Virginia"},
-"margaretann.bollmeier@unchealth.unc.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Margaret","school_hint":"UNC"},
-"ac344@mailbox.sc.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Abraham","school_hint":"South Carolina"},
-"kathleen.mallett@northwestern.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Kathleen","school_hint":"Northwestern"},
-"mdsoren@soe.rutgers.edu": {"sent":"2026-07-16","replied":"","bounced":"","meeting":"","first":"Maria","school_hint":"Rutgers"},
-"bjh256@cornell.edu": {"sent":"2026-07-15","replied":"","bounced":"","meeting":"","first":"Barbara","school_hint":"Cornell"},
-"suzy.beemer@ucsf.edu": {"sent":"2026-07-15","replied":"","bounced":"","meeting":"","first":"Suzy","school_hint":"UCSF"}
+"walla203@msu.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Michael",
+"school_hint": "Michigan State"
+},
+"aimee.jirak@osufoundation.org": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Aimee",
+"school_hint": "Oregon State"
+},
+"ddasilva@stevens.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Dawn",
+"school_hint": "Stevens"
+},
+"iyall@uw.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "David",
+"school_hint": "UW Engineering"
+},
+"tabakker@alaska.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Theresa",
+"school_hint": "Alaska"
+},
+"maasims@ucsc.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Molly",
+"school_hint": "UC Santa Cruz"
+},
+"jbw54@pitt.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Jodi",
+"school_hint": "Pitt"
+},
+"jamore24@central.uh.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Alex",
+"school_hint": "Houston"
+},
+"dbarstow@uma-foundation.org": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Diane",
+"school_hint": "UMass Amherst"
+},
+"jacqueline.maloney@unr.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Jacqueline",
+"school_hint": "Nevada"
+},
+"sjs422@cornell.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Stephen",
+"school_hint": "Cornell"
+},
+"josh.grant@utah.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Josh",
+"school_hint": "Utah"
+},
+"sharp@whoi.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Samuel",
+"school_hint": "Woods Hole"
+},
+"michaela.collins1@uga.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Michaela",
+"school_hint": "Georgia"
+},
+"mikeharders@uky.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Mike",
+"school_hint": "Kentucky"
+},
+"emily.bridson@unmfund.org": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Emily",
+"school_hint": "New Mexico"
+},
+"lisa.hall@rochester.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Lisa",
+"school_hint": "Rochester"
+},
+"jeweiner@stanford.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Julia",
+"school_hint": "Stanford"
+},
+"madrake@umich.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Mike",
+"school_hint": "Michigan"
+},
+"tmazler@support.ucla.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Tessa",
+"school_hint": "UCLA"
+},
+"dubron.rabb@ucr.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "DuBron",
+"school_hint": "UC Riverside"
+},
+"ginger.morehouse@colostate.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Ginger",
+"school_hint": "Colorado State"
+},
+"tbowden2@gmu.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Trishana",
+"school_hint": "George Mason"
+},
+"cmarshall@lsufoundation.org": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Chris",
+"school_hint": "LSU"
+},
+"gallagher.646@osu.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Sean",
+"school_hint": "Ohio State"
+},
+"cynthia.beach@yale.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Cynthia",
+"school_hint": "Yale"
+},
+"milesdi@auburn.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Diana",
+"school_hint": "Auburn"
+},
+"kati.martinez@asufoundation.org": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Kati",
+"school_hint": "Arizona State"
+},
+"hpatel3@clemson.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Heather",
+"school_hint": "Clemson"
+},
+"nsmilowitz@advance.fsu.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Nancy",
+"school_hint": "Florida State"
+},
+"erich@ksufoundation.org": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Eric",
+"school_hint": "Kansas State"
+},
+"jhbreit@illinois.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Jessica",
+"school_hint": "Illinois"
+},
+"lynn.hawks@ucsb.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Lynn",
+"school_hint": "UCSB"
+},
+"charisse.pudiquet@uhfoundation.org": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Charisse",
+"school_hint": "Hawaii"
+},
+"jdpaul@ua.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Jake",
+"school_hint": "Alabama"
+},
+"jschwar2@umd.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Jennifer",
+"school_hint": "Maryland"
+},
+"mml2r@virginia.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Mark",
+"school_hint": "Virginia"
+},
+"margaretann.bollmeier@unchealth.unc.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Margaret",
+"school_hint": "UNC"
+},
+"ac344@mailbox.sc.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Abraham",
+"school_hint": "South Carolina"
+},
+"kathleen.mallett@northwestern.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Kathleen",
+"school_hint": "Northwestern"
+},
+"mdsoren@soe.rutgers.edu": {
+"sent": "2026-07-16",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Maria",
+"school_hint": "Rutgers"
+},
+"bjh256@cornell.edu": {
+"sent": "2026-07-15",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Barbara",
+"school_hint": "Cornell"
+},
+"suzy.beemer@ucsf.edu": {
+"sent": "2026-07-15",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Suzy",
+"school_hint": "UCSF"
+}
 }
