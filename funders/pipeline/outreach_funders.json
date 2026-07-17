@@ -1,17 +1,137 @@
 {
-"abernard@kavlifoundation.org": {"sent":"2026-02-03","replied":"2026-02-03","bounced":"","meeting":"","first":"Amy","funder_hint":"The Kavli Foundation","by":"Sandeep"},
-"salbin@kavlifoundation.org": {"sent":"2026-02-04","replied":"2026-02-04","bounced":"","meeting":"2026-02-11","first":"Stephanie","funder_hint":"The Kavli Foundation","by":"Sandeep"},
-"dbos@kavlifoundation.org": {"sent":"2026-01-21","replied":"2026-01-22","bounced":"","meeting":"","first":"Deron","funder_hint":"The Kavli Foundation","by":"Valerie/Amit"},
-"sgill@dorisduke.org": {"sent":"2025-09-04","replied":"2025-09-04","bounced":"","meeting":"","first":"Sam","funder_hint":"Doris Duke Foundation","by":"Sandeep/Amit"},
-"ksia@dorisduke.org": {"sent":"2025-10-03","replied":"2025-10-02","bounced":"","meeting":"","first":"Kevin","funder_hint":"Doris Duke Foundation","by":"Sandeep"},
-"sescobar@dorisduke.org": {"sent":"2025-10-03","replied":"","bounced":"","meeting":"","first":"Sindy","funder_hint":"Doris Duke Foundation","by":"Sandeep"},
-"jkatz@dorisduke.org": {"sent":"2026-01-29","replied":"","bounced":"","meeting":"","first":"Jennifer","funder_hint":"Doris Duke Foundation","by":"Sandeep"},
-"jricci@schmidtsciences.org": {"sent":"2026-07-03","replied":"","bounced":"","meeting":"","first":"James","funder_hint":"Schmidt Sciences","by":"Workshop thread"},
-"rmurray@schmidtsciences.org": {"sent":"2026-01-05","replied":"2026-07-01","bounced":"","meeting":"","first":"Richard","funder_hint":"Schmidt Sciences","by":"Sandeep/Amit"},
-"smahesh@schmidtsciences.org": {"sent":"2026-02-24","replied":"2026-04-06","bounced":"","meeting":"2026-03-12","first":"Suhas","funder_hint":"Schmidt Sciences","by":"Amit"},
-"dan.wattendorf@gatesfoundation.org": {"sent":"2026-01-06","replied":"2026-01-06","bounced":"","meeting":"","first":"Dan","funder_hint":"Gates Foundation","by":"Valerie/Sandeep"},
-"bmarshall@chanzuckerberg.com": {"sent":"2025-09-24","replied":"2025-09-25","bounced":"","meeting":"2025-09-25","first":"Bailey","funder_hint":"Chan Zuckerberg Biohub","by":"Sandeep/Amit"},
-"laura.maher@siegelendowment.org": {"sent":"2026-05-14","replied":"","bounced":"","meeting":"","first":"Laura","funder_hint":"Siegel Family Endowment","by":"Amit"},
-"ashtonr@ff-st.org": {"sent":"2025-10-27","replied":"","bounced":"","meeting":"","first":"Ashton","funder_hint":"Fund for Science and Technology","by":"Sandeep"},
-"ratikak@ff-st.org": {"sent":"2025-10-27","replied":"","bounced":"","meeting":"","first":"Ratika","funder_hint":"Fund for Science and Technology","by":"Sandeep"}
+"abernard@kavlifoundation.org": {
+"sent": "2026-02-03",
+"replied": "2026-02-03",
+"bounced": "",
+"meeting": "",
+"first": "Amy",
+"funder_hint": "The Kavli Foundation",
+"by": "Sandeep"
+},
+"salbin@kavlifoundation.org": {
+"sent": "2026-02-04",
+"replied": "2026-02-04",
+"bounced": "",
+"meeting": "2026-02-11",
+"first": "Stephanie",
+"funder_hint": "The Kavli Foundation",
+"by": "Sandeep"
+},
+"dbos@kavlifoundation.org": {
+"sent": "2026-01-21",
+"replied": "2026-01-22",
+"bounced": "",
+"meeting": "",
+"first": "Deron",
+"funder_hint": "The Kavli Foundation",
+"by": "Valerie/Amit"
+},
+"sgill@dorisduke.org": {
+"sent": "2025-09-04",
+"replied": "2025-09-04",
+"bounced": "",
+"meeting": "",
+"first": "Sam",
+"funder_hint": "Doris Duke Foundation",
+"by": "Sandeep/Amit"
+},
+"ksia@dorisduke.org": {
+"sent": "2025-10-03",
+"replied": "2025-10-02",
+"bounced": "",
+"meeting": "",
+"first": "Kevin",
+"funder_hint": "Doris Duke Foundation",
+"by": "Sandeep"
+},
+"sescobar@dorisduke.org": {
+"sent": "2025-10-03",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Sindy",
+"funder_hint": "Doris Duke Foundation",
+"by": "Sandeep"
+},
+"jkatz@dorisduke.org": {
+"sent": "2026-01-29",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Jennifer",
+"funder_hint": "Doris Duke Foundation",
+"by": "Sandeep"
+},
+"jricci@schmidtsciences.org": {
+"sent": "2026-07-03",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "James",
+"funder_hint": "Schmidt Sciences",
+"by": "Workshop thread"
+},
+"rmurray@schmidtsciences.org": {
+"sent": "2026-01-05",
+"replied": "2026-07-01",
+"bounced": "",
+"meeting": "",
+"first": "Richard",
+"funder_hint": "Schmidt Sciences",
+"by": "Sandeep/Amit"
+},
+"smahesh@schmidtsciences.org": {
+"sent": "2026-02-24",
+"replied": "2026-04-06",
+"bounced": "",
+"meeting": "2026-03-12",
+"first": "Suhas",
+"funder_hint": "Schmidt Sciences",
+"by": "Amit"
+},
+"dan.wattendorf@gatesfoundation.org": {
+"sent": "2026-01-06",
+"replied": "2026-01-06",
+"bounced": "",
+"meeting": "",
+"first": "Dan",
+"funder_hint": "Gates Foundation",
+"by": "Valerie/Sandeep"
+},
+"bmarshall@chanzuckerberg.com": {
+"sent": "2025-09-24",
+"replied": "2025-09-25",
+"bounced": "",
+"meeting": "2025-09-25",
+"first": "Bailey",
+"funder_hint": "Chan Zuckerberg Biohub",
+"by": "Sandeep/Amit"
+},
+"laura.maher@siegelendowment.org": {
+"sent": "2026-05-14",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Laura",
+"funder_hint": "Siegel Family Endowment",
+"by": "Amit"
+},
+"ashtonr@ff-st.org": {
+"sent": "2025-10-27",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Ashton",
+"funder_hint": "Fund for Science and Technology",
+"by": "Sandeep"
+},
+"ratikak@ff-st.org": {
+"sent": "2025-10-27",
+"replied": "",
+"bounced": "",
+"meeting": "",
+"first": "Ratika",
+"funder_hint": "Fund for Science and Technology",
+"by": "Sandeep"
+}
 }
