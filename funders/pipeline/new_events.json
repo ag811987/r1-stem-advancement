@@ -1,4 +1,6 @@
 [
-{"email":"smahesh@schmidtsciences.org","type":"sent","date":"2026-09-03","by":"Sandeep","first":"Suhas","funder_hint":"Schmidt Sciences"},
-{"email":"greenberg@sloan.org","type":"sent","date":"2026-09-03","by":"Sandeep","first":"Josh","funder_hint":"Alfred P. Sloan Foundation"}
+ {"email":"greenberg@sloan.org","type":"sent","date":"2026-09-03","first":"Josh","funder_hint":"Alfred P. Sloan Foundation","by":"Sandeep"},
+ {"email":"greenberg@sloan.org","type":"sent","date":"2026-09-04","first":"Josh","funder_hint":"Alfred P. Sloan Foundation","by":"Sandeep"},
+ {"email":"greenberg@sloan.org","type":"replied","date":"2026-09-04","first":"Josh","funder_hint":"Alfred P. Sloan Foundation","by":"Sandeep"},
+ {"email":"greenberg@sloan.org","type":"meeting","date":"2026-09-11","first":"Josh","funder_hint":"Alfred P. Sloan Foundation","by":"Sandeep"}
 ]
